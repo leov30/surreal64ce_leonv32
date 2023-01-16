@@ -85,7 +85,7 @@ SP Hack=No
 [449F60CC-32080C16-C:45]
 Good Name=3D Model RGB Test Program (USA) (Test Program)
 Internal Name=40 WINKS
-RDRAM Size=4
+RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
@@ -375,6 +375,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
+Cheat0=”freeze fix”,81068FCE 0000
 
 [2DC4FFCC-C8FF5A21-C:50]
 Good Name=Aidyn Chronicles - The First Mage (Europe)
@@ -576,7 +577,7 @@ SP Hack=No
 Good Name=Armorines - Project S.W.A.R.M. (Europe)
 Internal Name=Armorines Project S.
 RDRAM Size=8
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -590,7 +591,7 @@ SP Hack=No
 Good Name=Armorines - Project S.W.A.R.M. (Germany)
 Internal Name=Armorines Project S.
 RDRAM Size=8
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -604,7 +605,7 @@ SP Hack=No
 Good Name=Armorines - Project S.W.A.R.M. (USA)
 Internal Name=Armorines Project S.
 RDRAM Size=8
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -688,7 +689,7 @@ SP Hack=No
 Good Name=Automobili Lamborghini (Europe)
 Internal Name=LAMBORGHINI
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
@@ -702,7 +703,7 @@ SP Hack=No
 Good Name=Automobili Lamborghini (USA)
 Internal Name=LAMBORGHINI
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
@@ -716,7 +717,7 @@ SP Hack=No
 Good Name=Super Speed Race 64 (Japan)
 Internal Name=SUPER SPEED RACE 64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
@@ -1000,7 +1001,7 @@ Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Default
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1014,7 +1015,7 @@ Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Default
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1028,7 +1029,7 @@ Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Default
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1042,7 +1043,7 @@ Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Default
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1052,11 +1053,11 @@ SP Hack=No
 Good Name=Big Mountain 2000 (USA)
 Internal Name=Big Mountain 2000
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1066,11 +1067,11 @@ SP Hack=No
 Good Name=Snow Speeder (Japan)
 Internal Name=Snow Speeder
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1112,7 +1113,7 @@ Counter Factor=2
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1126,7 +1127,7 @@ Counter Factor=2
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1140,7 +1141,7 @@ Counter Factor=2
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -1154,7 +1155,7 @@ Counter Factor=2
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -2008,7 +2009,7 @@ Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -2447,6 +2448,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
+Cheat0=”freeze fix”,81046576 0000
 
 [A5F667E1-DA1FBD1F-C:4A]
 Good Name=Derby Stallion 64 (Japan)
@@ -2591,7 +2593,7 @@ SP Hack=No
 [870611BA-D8B1226C-C:00]
 Good Name=Die Hard 64 (USA) (Proto) (Level 1)
 Internal Name=EMPTY
-RDRAM Size=4
+RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
@@ -2605,7 +2607,7 @@ SP Hack=No
 [08D49262-03763D39-C:00]
 Good Name=Die Hard 64 (USA) (Proto) (Level 2)
 Internal Name=EMPTY
-RDRAM Size=4
+RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
@@ -2619,7 +2621,7 @@ SP Hack=No
 [A1F51C25-16D61291-C:00]
 Good Name=Die Hard 64 (USA) (Proto) (Level 3)
 Internal Name=EMPTY
-RDRAM Size=4
+RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
@@ -2686,6 +2688,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=806128E2 0000
+
 [053C89A7-A5064302-C:4A]
 Good Name=Donkey Kong 64 (Japan)
 Internal Name=DONKEY KONG 64
@@ -2700,6 +2703,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=806170A2 0000
+
 [0DD4ABAB-B5A2A91E-C:45]
 Good Name=Donkey Kong 64 (USA) (Demo) (Kiosk)
 Internal Name=D K DISPLAY
@@ -2728,6 +2732,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=80619632 0000
+
 [2C739EAC-9EF77726-C:50]
 Good Name=Doom 64 (Europe)
 Internal Name=Doom64
@@ -2900,7 +2905,7 @@ SP Hack=No
 Good Name=Dual Heroes (Europe)
 Internal Name=Dual heroes PAL
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -2914,7 +2919,7 @@ SP Hack=No
 Good Name=Dual Heroes (Japan)
 Internal Name=Dual heroes JAPAN
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -2928,7 +2933,7 @@ SP Hack=No
 Good Name=Dual Heroes (USA)
 Internal Name=Dual heroes USA
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -5140,13 +5145,13 @@ SP Hack=No
 Good Name=J.League Live 64 (Japan)
 Internal Name=J LEAGUE LIVE 64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=None
-Use TLB=Yes
+Use TLB=No
 Linking=On
-Reg Cache=Yes
+Reg Cache=No
 Delay SI=No
 SP Hack=No
 
@@ -5209,7 +5214,7 @@ SP Hack=No
 [21F7ABFB-6A8AA7E8-C:50]
 Good Name=Jeremy McGrath Supercross 2000 (Europe)
 Internal Name=Jeremy McGrath Super
-RDRAM Size=4
+RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
@@ -5223,7 +5228,7 @@ SP Hack=No
 [BB30B1A5-FCF712CE-C:45]
 Good Name=Jeremy McGrath Supercross 2000 (USA)
 Internal Name=Jeremy McGrath Super
-RDRAM Size=4
+RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
@@ -6005,6 +6010,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=801D8F4B 0002
 Cheat1=D109A8C4 0320,8109A8C4 0000,D109A8C6 F809,8109A8C6 0000
+
 [917D18F6-69BC5453-C:50]
 Good Name=Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)
 Internal Name=THE LEGEND OF ZELDA
@@ -6034,6 +6040,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=801DB74B 0002
 Cheat1=D109A7F4 0320,8109A7F4 0000,D109A7F6 F809,8109A7F6 0000
+
 [F43B45BA-2F0E9B6F-C:4A]
 Good Name=Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)
 Internal Name=THE LEGEND OF ZELDA
@@ -6049,6 +6056,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=801DB78B 0002
 Cheat1=D109A814 0320,8109A814 0000,D109A816 F809,8109A816 0000
+
 [B2055FBD-0BAB4E0C-C:50]
 Good Name=Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)
 Internal Name=THE LEGEND OF ZELDA
@@ -6063,6 +6071,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=801D864B 0002
+
 [87121EFE-3149592C-C:50]
 Good Name=Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)
 Internal Name=THE LEGEND OF ZELDA
@@ -6091,6 +6100,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=801D860B 0002
+
 [B044B569-373C1985-C:50]
 Good Name=Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)
 Internal Name=THE LEGEND OF ZELDA
@@ -6105,6 +6115,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=801D860B 0002
+
 [09465AC3-F8CB501B-C:50]
 Good Name=Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)
 Internal Name=THE LEGEND OF ZELDA
@@ -6120,6 +6131,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=801D8F8B 0002
 Cheat1=D109A8E4 0320,8109A8E4 0000,D109A8E6 F809,8109A8E6 0000
+
 [48CA05F4-F7E96D83-C:45]
 Good Name=Legend of Zelda, The - Ocarina of Time (USA) (Beta)
 Internal Name=THE LEGEND OF ZELDA
@@ -6149,6 +6161,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=801DB78B 0002
 Cheat1=D109A814 0320,8109A814 0000,D109A816 F809,8109A816 0000
+
 [D43DA81F-021E1E19-C:45]
 Good Name=Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)
 Internal Name=THE LEGEND OF ZELDA
@@ -6163,6 +6176,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=D109C5BC 0C02,8109C5BC 2400
+
 [693BA2AE-B7F14E9F-C:45]
 Good Name=Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)
 Internal Name=THE LEGEND OF ZELDA
@@ -6177,6 +6191,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=D109CC9C 0C02,8109CC9C 2400
+
 [EC7011B7-7616D72B-C:45]
 Good Name=Legend of Zelda, The - Ocarina of Time (USA)
 Internal Name=THE LEGEND OF ZELDA
@@ -6191,6 +6206,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=D109C5AC 0C02,8109C5AC 2400
+
 [F7F52DB8-2195E636-C:4A]
 Good Name=Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)
 Internal Name=THE LEGEND OF ZELDA
@@ -6206,6 +6222,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=801DB78B 0002
 Cheat1=D109A814 0320,8109A814 0000,D109A816 F809,8109A816 0000
+
 [F611F4BA-C584135C-C:4A]
 Good Name=Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)
 Internal Name=THE LEGEND OF ZELDA
@@ -6221,6 +6238,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=801DB78B 0002
 Cheat1=D109A834 0320,8109A834 0000,D109A836 F809,8109A836 0000
+
 [F478D8B3-9716DD6D-C:50]
 Good Name=LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)
 Internal Name=LEGORacers
@@ -6739,6 +6757,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=81001A38 2409,81001A3A 0002,81001A3C 2409,81001A3E 0002,81001C90 240A,81001C92 0002,81001C94 240A,81001C96 0002
+
 [C3B6DE9D-65D2DE76-C:50]
 Good Name=Mario Kart 64 (Europe)
 Internal Name=MARIOKART64
@@ -6753,6 +6772,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=81001A38 2409,81001A3A 0002,81001A3C 2409,81001A3E 0002,81001C90 240A,81001C92 0002,81001C94 240A,81001C96 0002
+
 [C9C3A987-5810344C-C:4A]
 Good Name=Mario Kart 64 (Japan) (Rev 1)
 Internal Name=MARIOKART64
@@ -6767,6 +6787,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=81001A38 2409,81001A3A 0002,81001A3C 2409,81001A3E 0002,81001C90 240A,81001C92 0002,81001C94 240A,81001C96 0002
+
 [6BFF4758-E5FF5D5E-C:4A]
 Good Name=Mario Kart 64 (Japan)
 Internal Name=MARIOKART64
@@ -6781,6 +6802,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=81001A38 2409,81001A3A 0002,81001A3C 2409,81001A3E 0002,81001C90 240A,81001C92 0002,81001C94 240A,81001C96 0002
+
 [3E5055B6-2E92DA52-C:45]
 Good Name=Mario Kart 64 (USA)
 Internal Name=MARIOKART64
@@ -6795,6 +6817,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 Cheat0=81001A38 2409,81001A3A 0002,81001A3C 2409,81001A3E 0002,81001C90 240A,81001C92 0002,81001C94 240A,81001C96 0002
+
 [9A9890AC-F0C313DF-C:4A]
 Good Name=Mario no Photopie (Japan)
 Internal Name=UNI_CHAR
@@ -7251,7 +7274,7 @@ Counter Factor=1
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -7265,7 +7288,7 @@ Counter Factor=1
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -7279,7 +7302,7 @@ Counter Factor=1
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -7293,7 +7316,7 @@ Counter Factor=1
 Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -7457,11 +7480,11 @@ SP Hack=No
 Good Name=Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)
 Internal Name=MTM64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -7471,11 +7494,11 @@ SP Hack=No
 Good Name=Monster Truck Madness 64 (USA)
 Internal Name=MTM64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -7667,7 +7690,7 @@ SP Hack=No
 Good Name=Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)
 Internal Name=MYSTICAL NINJA2 SG
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -7681,10 +7704,10 @@ SP Hack=No
 Good Name=Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)
 Internal Name=GOEMON2 DERODERO
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
-Self-modifying code Method=Change Memory
+Self-modifying code Method=Check Memory & cache
 Use TLB=Yes
 Linking=On
 Reg Cache=Yes
@@ -7695,7 +7718,7 @@ SP Hack=No
 Good Name=Goemon's Great Adventure (USA)
 Internal Name=GOEMONS GREAT ADV
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -7709,7 +7732,7 @@ SP Hack=No
 Good Name=Mystical Ninja Starring Goemon (Europe)
 Internal Name=MYSTICAL NINJA
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Change Memory
@@ -7723,7 +7746,7 @@ SP Hack=No
 Good Name=Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)
 Internal Name=UNI_CHAR UNI_CHAR
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Change Memory
@@ -7737,7 +7760,7 @@ SP Hack=No
 Good Name=Mystical Ninja Starring Goemon (USA)
 Internal Name=MYSTICAL NINJA
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Change Memory
@@ -8091,7 +8114,7 @@ Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -9162,6 +9185,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1381BFC 802C,80381BEF 0000
 Cheat1=D11E3824 2881,811E3824 2001,D11E3826 0098,811E3826 0001
+
 [7BB18D40-83138559-C:55]
 Good Name=Pokemon Snap (Australia)
 Internal Name=POKEMON SNAP
@@ -9177,6 +9201,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1382D1C 802C,80382D0F 0000
 Cheat1=D11E3C44 2881,811E3C44 2001,D11E3C46 0098,811E3C46 0001
+
 [BA6C293A-9FAFA338-C:46]
 Good Name=Pokemon Snap (France)
 Internal Name=POKEMON SNAP
@@ -9192,6 +9217,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1381BFC 802C,80381BEF 0000
 Cheat1=D11E3744 2881,811E3744 2001,D11E3746 0098,811E3746 0001
+
 [5753720D-2A8A884D-C:44]
 Good Name=Pokemon Snap (Germany)
 Internal Name=POKEMON SNAP
@@ -9207,6 +9233,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1381BDC 802C,80381BCF 0000
 Cheat1=D11E3744 2881,811E3744 2001,D11E3746 0098,811E3746 0001
+
 [C0C85046-61051B05-C:49]
 Good Name=Pokemon Snap (Italy)
 Internal Name=POKEMON SNAP
@@ -9222,6 +9249,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1381BFC 802C,80381BEF 0000
 Cheat1=D11E3994 2881,811E3994 2001,D11E3996 0098,811E3996 0001
+
 [EC0F690D-32A7438C-C:4A]
 Good Name=Pokemon Snap (Japan)
 Internal Name=POKEMON SNAP
@@ -9237,6 +9265,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D136D22C 802A,8036D21F 0000
 Cheat1=D11E1EC4 2881,811E1EC4 2001,D11E1EC6 0098,811E1EC6 0001
+
 [817D286A-EF417416-C:53]
 Good Name=Pokemon Snap (Spain)
 Internal Name=POKEMON SNAP
@@ -9252,6 +9281,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1381BFC 802C,80381BEF 0000
 Cheat1=D11E38C4 2881,811E38C4 2001,D11E38C6 0098,811E38C6 0001
+
 [CA12B547-71FA4EE4-C:45]
 Good Name=Pokemon Snap (USA)
 Internal Name=POKEMON SNAP
@@ -9267,6 +9297,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1382D1C 802C,80382D0F 0000
 Cheat1=D11E3184 2881,811E3184 2001,D11E3186 0098,811E3186 0001
+
 [39119872-07722E9F-C:45]
 Good Name=Pokemon Snap Station (USA) (Demo) (Kiosk)
 Internal Name=POKEMON SNAP
@@ -9282,6 +9313,7 @@ Delay SI=No
 SP Hack=No
 Cheat0=D1382D1C 802C,80382D0F 0000
 Cheat1=D11E30F4 2881,811E30F4 2001,D11E30F6 0098,811E30F6 0001
+
 [91C9E05D-AD3AAFB9-C:50]
 Good Name=Pokemon Stadium (Europe) (Rev 1)
 Internal Name=POKEMON STADIUM
@@ -10056,11 +10088,11 @@ SP Hack=No
 Good Name=Road Rash 64 (Europe)
 Internal Name=ROAD RASH 64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -10070,11 +10102,11 @@ SP Hack=No
 Good Name=Road Rash 64 (Europe) (Beta) (1999-10-12)
 Internal Name=ROAD RASH 64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -10084,11 +10116,11 @@ SP Hack=No
 Good Name=Road Rash 64 (USA)
 Internal Name=ROAD RASH 64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Cache
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -10130,7 +10162,7 @@ Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Change Memory
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -11287,7 +11319,7 @@ SP Hack=No
 [0684FBFB-5D3EA8A5-C:45]
 Good Name=StarCraft 64 (USA)
 Internal Name=STARCRAFT 64
-RDRAM Size=8
+RDRAM Size=4
 Counter Factor=2
 Save Type=FlashRam
 CPU Type=Recompiler
@@ -11301,7 +11333,7 @@ SP Hack=No
 [42CF5EA3-9A1334DF-C:50]
 Good Name=StarCraft 64 (Australia)
 Internal Name=STARCRAFT 64
-RDRAM Size=8
+RDRAM Size=4
 Counter Factor=2
 Save Type=FlashRam
 CPU Type=Recompiler
@@ -11315,7 +11347,7 @@ SP Hack=No
 [FD6907F0-83CBC160-C:44]
 Good Name=StarCraft 64 (Germany) (Proto)
 Internal Name=STARCRAFT 64
-RDRAM Size=8
+RDRAM Size=4
 Counter Factor=2
 Save Type=FlashRam
 CPU Type=Recompiler
@@ -11329,7 +11361,7 @@ SP Hack=No
 [BC9B2CC3-4ED04DA5-C:37]
 Good Name=StarCraft 64 (USA) (Beta)
 Internal Name=UNI_CHAR2UNI_CHAR8y)UNI_CHARtUUNI_CHARy7UNI_CHAR]UNI_CHAR9
-RDRAM Size=8
+RDRAM Size=4
 Counter Factor=2
 Save Type=FlashRam
 CPU Type=Recompiler
@@ -11843,6 +11875,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
+Cheat0=800E4933 00FF
 
 [63E7391C-E6CCEA33-C:45]
 Good Name=Tom and Jerry in Fists of Furry (USA)
@@ -11857,6 +11890,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
+Cheat0=810E44F2 00FF
 
 [4875AF3D-9A66D3A2-C:50]
 Good Name=Tom Clancy's Rainbow Six (Europe)
@@ -11918,7 +11952,7 @@ SP Hack=No
 Good Name=Tommy Thunder (USA) (Proto) (1997-10-01)
 Internal Name=LALA
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Default
@@ -12016,7 +12050,7 @@ SP Hack=No
 Good Name=Tony Hawk's Pro Skater 3 (USA)
 Internal Name=THPS3
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Default
@@ -12451,10 +12485,10 @@ Good Name=Tsumi to Batsu - Hoshi no Keishousha (Japan)
 Internal Name=TSUMI TO BATSU
 RDRAM Size=4
 Counter Factor=2
-Save Type=First Save Type
+Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Change Memory
-Use TLB=Yes
+Use TLB=No
 Linking=On
 Reg Cache=Yes
 Delay SI=No
@@ -12842,7 +12876,7 @@ SP Hack=No
 Good Name=Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)
 Internal Name=UNI_CHAR
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Protected Memory
@@ -13374,7 +13408,7 @@ SP Hack=No
 Good Name=WCW Nitro (USA)
 Internal Name=NITRO64
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=3
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
@@ -13499,7 +13533,7 @@ SP Hack=No
 [A04237B9-68F62C72-C:00]
 Good Name=Wildwaters (USA) (Proto) (1999-06-15)
 Internal Name=EMPTY
-RDRAM Size=4
+RDRAM Size=8
 Counter Factor=2
 Save Type=First Save Type
 CPU Type=Recompiler
@@ -13864,7 +13898,7 @@ SP Hack=No
 Good Name=Yakouchuu II - Satsujin Kouro (Japan)
 Internal Name=YAKOUTYUU2
 RDRAM Size=4
-Counter Factor=2
+Counter Factor=1
 Save Type=First Save Type
 CPU Type=Recompiler
 Self-modifying code Method=Protected Memory
@@ -13873,6 +13907,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
+Cheat0=”Boot Fix”,811B20C0 0000,811B20C2 0000
 
 [D3F97D49-6924135B-C:50]
 Good Name=Yoshi's Story (Europe) (En,Fr,De)
@@ -13929,4 +13964,19 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
+
+[656C6561-73652031-C:00]
+Good Name=Xplorer 64 (Germany) (v1.067) (Unl)
+Internal Name=1930....Germany.....
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
 
