@@ -11008,6 +11008,20 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 
+[BFE23884-EF48EAAF-C:45]
+Good Name=SpaceStation Silicon Valley (USA)
+Internal Name=Silicon Valley
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Check Memory & cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
 [A60ED171-3D85D06E-C:45]
 Good Name=Spider-Man (USA)
 Internal Name=SPIDERMAN
