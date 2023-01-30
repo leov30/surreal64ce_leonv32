@@ -41,7 +41,7 @@ move "Pokemon Puzzle League (USA) (Wii Virtual Console).zip" _NOT_SURREAL64
 move "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).zip" _NOT_SURREAL64
 move "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).zip" _NOT_SURREAL64
 
-
+cls
 choice /m "do you want to rename to FATX?"
 if %errorlevel% equ 2 exit
 
