@@ -4,6 +4,8 @@ configuration files for n64 ogxbox emulator surreal64ce 6.1b
 
 rebuild from scratch using: "Nintendo - Nintendo 64 (BigEndian) (Parent-Clone) (20220606-120123)"
 
+synopsis files for xbmc emustation:
+https://drive.google.com/file/d/1RkmarW-4KYnV6BMxGQcTorrhwT93Jf43/view?usp=share_link
 full box art for this project: 
 https://drive.google.com/file/d/1BxBK3t-J5bU-LIA7sL9kwGx3EgsBh8Oa/view?usp=share_link
 
