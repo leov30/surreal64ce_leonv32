@@ -124,7 +124,7 @@ Battle Mode\Infinite Balloons\Player 3,1=0,8118B2D4-0003,
 Battle Mode\Infinite Balloons\Player 4,1=0,8118B2D6-0003,
 
 [MARIOKART64 US]
-NumberOfGroups=10
+NumberOfGroups=9
 Press GS\For Full Debug Menu,1=0,8818EDEF-0002,
 Press L To Levitate\Player 1,1=0,D00F6915-0020,810F69C8-4000,
 Press L To Levitate\Player 2,1=0,D00F6925-0020,810F77A0-4000,
@@ -2847,8 +2847,8 @@ Extra Teams,1=0,800C7205-0001,
 Get In Fights Constantly,1=0,800A442E-0020,
 
 [YAKOUTYUU2 JP]
-NumberOfGroups=1
-Boot Fix,1=1,811B20C0-0000,811B20C2-0000,
+NumberOfGroups=0
+�Boot Fix,1=1,811B20C0-0000,811B20C2-0000,
 
 [NITRO64 US]
 NumberOfGroups=0
@@ -6055,7 +6055,7 @@ Stop Timer From Counting Down (All Levels),1=0,8101D4FC-2400,
 NumberOfGroups=0
 
 [THE LEGEND OF ZELDA EU GC]
-NumberOfGroups=40
+NumberOfGroups=38
 Infinite\Rupees,1=0,81119D04-0001,
 Max\Double Defense Power,1=0,80118A07-0014,
 Use Any Item In Any House,1=0,81119B5A-0000,81119B5C-0000,
@@ -6094,11 +6094,11 @@ Epona\Max Carrots\Lon Lon Raunch,1=0,801F1A68-0005,801EE508-0005,
 Infinite\Timers\Escape From Gannons Tower,1=0,80119D0D-00B4,
 Press L\To Levitate,1=0,D011BB11-0020,811D93D0-40CB,
 Press L\For Infinite Hover Boots,1=0,D011BB11-0020,811D9BF2-000D,
-Subscreen Delay Fix,1=1,801D8F4B-0002,
-End Credits Fix,1=1,D109A8C4-0320,8109A8C4-0000,D109A8C6-F809,8109A8C6-0000,
+Subscreen Delay Fix,1=0,801D8F4B-0002,
+End Credits Fix,1=0,D109A8C4-0320,8109A8C4-0000,D109A8C6-F809,8109A8C6-0000,
 
 [THE LEGEND OF ZELDA US GC]
-NumberOfGroups=41
+NumberOfGroups=39
 Infinite\Rupees,1=0,8111C4F4-0001,
 Use Any Item In Any House,1=0,8111C34A-0000,8111C34C-0000,
 Have\All Equipment,1=0,8111B1C4-7777,
@@ -6138,11 +6138,11 @@ Max\Double Defense Power,1=0,8011B1F7-0014,
 Infinite\Timers\All Other Timers,1=0,8011C4F9-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D4A-0006,801EFD08-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C4FD-00B4,
-Subscreen Delay Fix,1=1,801DB74B-0002,
-End Credits Fix,1=1,D109A7F4-0320,8109A7F4-0000,D109A7F6-F809,8109A7F6-0000,
+Subscreen Delay Fix,1=0,801DB74B-0002,
+End Credits Fix,1=0,D109A7F4-0320,8109A7F4-0000,D109A7F6-F809,8109A7F6-0000,
 
 [THE LEGEND OF ZELDA JP GC]
-NumberOfGroups=42
+NumberOfGroups=40
 Infinite\Rupees,1=0,8111C514-0001,
 Use Any Item In Any House,1=0,8111C36A-0000,8111C36C-0000,
 Have\All Equipment,1=0,8111B1E4-7777,
@@ -6183,8 +6183,8 @@ Max\Double Defense Power,1=0,8011B217-0014,
 Infinite\Timers\All Other Timers,1=0,8011C519-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D8A-0006,801EFD48-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C51D-00B4,
-Subscreen Delay Fix,1=1,801DB78B-0002,
-End Credits Fix,1=1,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
+Subscreen Delay Fix,1=0,801DB78B-0002,
+End Credits Fix,1=0,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
 
 [Eltail JP]
 NumberOfGroups=5
@@ -6350,8 +6350,9 @@ Infinite\Time,1=0,810802D4-4296,
 NumberOfGroups=0
 
 [AIUNI_CHAR3 JP]
-NumberOfGroups=1
-freeze fix,1=1,81068FCE-0000,
+NumberOfGroups=0
+
+”freeze fix”,81068FCE-0000
 
 [UNI_CHAR64 JP]
 NumberOfGroups=0
@@ -6956,25 +6957,26 @@ Infinite\99 R Button Bombs,1=0,8024BD89-0063,
 Timer is 3:59:96 in Time Attack,1=0,8122962E-1C1F,
 
 [TOM AND JERRY EU]
-NumberOfGroups=8
-[Unlock All Characters],1=1,800E4933-00FF,
+NumberOfGroups=7
+[Unlock All Characters],1=0,800E4933-00FF,
 Open All Versus Arenas,1=0,800E4934-00FF,800E4935-00FF,
 Infinite Health,1=0,800E2BDD-00C8,
 One Hit To Kill\Player 1,1=0,800E2EB4-0080,
 One Hit To Kill\Player 2,1=0,800E2BDC-0080,
 Infinite time,1=0,800FF18E-00F0,
 No music,1=0,800B7718-0000,
-Unlock All Characters,1=1,800E4933-00FF,
+Unlock All Characters,1=0,800E4933-00FF,
 
 [TOM AND JERRY US]
 NumberOfGroups=7
+Unlock All Characters,1=0,810E44F2-00FF,
 Open All Versus Arenas,1=0,810E44F4-03FF,
 Infinite Health\Player 1,1=0,810E279C-42C8,
 One Hit To Kill\Player 1,1=0,810E2A74-3F80,
 One Hit To Kill\Player 2,1=0,810E2D4C-3F80,
 Infinite Health\Player 2,1=0,810E2A74-42C8,
 Infinite Time,1=0,810FED4C-42F0,
-Unlock All Characters,1=1,810E44F2-00FF,
+Unlock All Characters,1=0,810E44F2-00FF,
 
 [GOLDENEYE EU]
 NumberOfGroups=13
@@ -7063,7 +7065,7 @@ Have\All Members in your party,1=0,50000C08-0000,8010F46C-0001,
 No Star Points (0),1=0,8010F460-0000,
 
 [PAPER MARIO EU]
-NumberOfGroups=10
+NumberOfGroups=9
 Infinite\Max Coins,1=0,8110DD9C-03E7,
 Infinite\Max HP + FP,1=0,50000601-0000,8010DD91-0063,
 Have\All Star Spirits,1=0,8110E01E-0007,
@@ -7073,10 +7075,10 @@ Have\All Members in your party,1=0,50000C08-0000,8010DDAC-0001,
 No Star Points (0),1=0,8010DDA0-0000,
 Press L Button  For Moon Jump,1=0,D0071337-0020,8010DAF4-0043,
 Infinite\Star Power,1=0,8110E020-0707,
-Subscreen Delay Fix,1=1,81027F80-2400,
+Subscreen Delay Fix,1=0,81027F80-2400,
 
 [PAPER MARIO US]
-NumberOfGroups=9
+NumberOfGroups=8
 Infinite\Max Coins,1=0,8110F29C-03E7,
 Infinite\Max HP + FP,1=0,50000601-0000,8010F291-0063,
 Have\All Star Spirits,1=0,8010F51E-0007,
@@ -7085,17 +7087,18 @@ Max\Star Pieces,1=0,8010F29F-00A0,8010F5BD-00A0,
 Have\All Members in your party,1=0,50000C08-0000,8010F2AC-0001,
 No Star Points (0),1=0,8010F2A0-0000,
 Infinite\Star Power,1=0,8110F520-0707,
-Subscreen Delay Fix,1=1,81027B5A-0000,
+Subscreen Delay Fix,1=0,81027B5A-0000,
 
 [THE LEGEND OF ZELDA EU B GC]
 NumberOfGroups=0
 
 [THE LEGEND OF ZELDA EU GC D]
-NumberOfGroups=1
-Subscreen Delay Fix,1=1,801D860B-0002,
+NumberOfGroups=0
+
+Subscreen Delay Fix,1=0,801D860B-0002,
 
 [THE LEGEND OF ZELDA EU R1]
-NumberOfGroups=42
+NumberOfGroups=41
 Infinite\Rupees,1=0,811197DC-0001,
 Use Any Item In Any House,1=0,81119632-0000,81119634-0000,
 Have\All Equipment,1=0,811184AC-7777,
@@ -7137,10 +7140,10 @@ Beta\Specific things lean,1=0,80023454-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C6535-0010,81119776-0001,
 Press L\For infinite Hover Boots,1=0,D01C6535-0020,811D9332-000D,
 Press L\To Levitate,1=0,D01C6535-0020,811D8B20-40CB,
-Subscreen Delay Fix,1=1,801D864B-0002,
+Subscreen Delay Fix,1=0,801D864B-0002,
 
 [THE LEGEND OF ZELDA EU]
-NumberOfGroups=42
+NumberOfGroups=41
 Infinite\Rupees,1=0,8111979C-0001,
 Use Any Item In Any House,1=0,811195F2-0000,811195F4-0000,
 Have\All Equipment,1=0,8111846C-7777,
@@ -7182,10 +7185,10 @@ Beta\Specific things lean,1=0,80023414-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C64F5-0010,81119736-0001,
 Press L\For infinite Hover Boots,1=0,D01C64F5-0020,811D92F2-000D,
 Press L\To Levitate,1=0,D01C64F5-0020,811D8AE0-40CB,
-Subscreen Delay Fix,1=1,801D860B-0002,
+Subscreen Delay Fix,1=0,801D860B-0002,
 
 [THE LEGEND OF ZELDA EU GC]
-NumberOfGroups=43
+NumberOfGroups=41
 Infinite\Rupees,1=0,81119D24-0001,
 Use Any Item In Any House,1=0,81119B7A-0000,81119B7C-0000,
 Have\All Equipment,1=0,811189F4-7777,
@@ -7227,19 +7230,20 @@ Beta\Specific things lean,1=0,8002399C-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C6A7D-0010,81119CBE-0001,
 Press L\For infinite Hover Boots,1=0,D011BB37-0020,811D9C32-000D,
 Press L\To Levitate,1=0,D011BB37-0020,811D9410-40CB,
-Subscreen Delay Fix,1=1,801D8F8B-0002,
-End Credits Fix,1=1,D109A8E4-0320,8109A8E4-0000,D109A8E6-F809,8109A8E6-0000,
+Subscreen Delay Fix,1=0,801D8F8B-0002,
+End Credits Fix,1=0,D109A8E4-0320,8109A8E4-0000,D109A8E6-F809,8109A8E6-0000,
 
 [THE LEGEND OF ZELDA US B]
 NumberOfGroups=0
 
 [THE LEGEND OF ZELDA US GC]
-NumberOfGroups=2
-Subscreen Delay Fix,1=1,801DB78B-0002,
-End Credits Fix,1=1,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
+NumberOfGroups=0
+
+Subscreen Delay Fix,1=0,801DB78B-0002,
+End Credits Fix,1=0,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
 
 [THE LEGEND OF ZELDA US R1]
-NumberOfGroups=43
+NumberOfGroups=41
 Infinite\Rupees,1=0,8111BB5C-0001,
 Use Any Item In Any House,1=0,8111B9B2-0000,8111B9B4-0000,
 Have\All Equipment,1=0,8111A82C-7777,
@@ -7281,11 +7285,11 @@ Beta\Specific things lean,1=0,800257D4-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C8675-0010,8111BAF6-0001,
 Press L\For infinite Hover Boots,1=0,D01C8675-0020,811DB472-000D,
 Press L\To Levitate,1=0,D01C8675-0020,811DAC50-40CB,
-Subscreen Delay Fix,1=1,D109C5BC-0C02,8109C5BC-2400,
-Equipment Screen Delay Fix,1=1,D138EA6C-0C0E,8138EA6C-2400,
+Subscreen Delay Fix,1=0,D109C5BC-0C02,8109C5BC-2400,
+Equipment Screen Delay Fix,1=0,D138EA6C-0C0E,8138EA6C-2400,
 
 [THE LEGEND OF ZELDA US R2]
-NumberOfGroups=43
+NumberOfGroups=41
 Infinite\Rupees,1=0,8111C04C-0001,
 Use Any Item In Any House,1=0,8111BEA2-0000,8111BEA4-0000,
 Have\All Equipment,1=0,8111AD1C-7777,
@@ -7327,11 +7331,11 @@ Beta\Specific things lean,1=0,80025CC4-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C8B65-0010,8111BFE6-0001,
 Press L\For infinite Hover Boots,1=0,D01C8D75-0020,811DBB72-000D,
 Press L\ To Levitate,1=0,D01C8D75-0020,811DB350-40CB,
-Subscreen Delay Fix,1=1,D109CC9C-0C02,8109CC9C-2400,
-Equipment Screen Delay Fix,1=1,D138F07C-0C0E,8138F07C-2400,
+Subscreen Delay Fix,1=0,D109CC9C-0C02,8109CC9C-2400,
+Equipment Screen Delay Fix,1=0,D138F07C-0C0E,8138F07C-2400,
 
 [THE LEGEND OF ZELDA US]
-NumberOfGroups=43
+NumberOfGroups=41
 Infinite\Rupees,1=0,8111B99C-0001,
 Use Any Item In Any House,1=0,8111B7F2-0000,8111B7F4-0000,
 Have\All Equipment,1=0,8111A66C-7777,
@@ -7373,11 +7377,11 @@ Epona\Max Carrots\Lon Lon Raunch,1=0,801F2208-0005,801EEC88-0005,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011B9A5-00B4,
 Beta\Specific things lean,1=0,80025614-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C84B5-0010,8111B936-0001,
-Subscreen Delay Fix,1=1,D109C5AC-0C02,8109C5AC-2400,
-Equipment Screen Delay Fix,1=1,D138E8CC-0C0E,8138E8CC-2400,
+Subscreen Delay Fix,1=0,D109C5AC-0C02,8109C5AC-2400,
+Equipment Screen Delay Fix,1=0,D138E8CC-0C0E,8138E8CC-2400,
 
 [THE LEGEND OF ZELDA JP GC]
-NumberOfGroups=42
+NumberOfGroups=40
 Infinite\Rupees,1=0,8111C514-0001,
 Use Any Item In Any House,1=0,8111C36A-0000,8111C36C-0000,
 Have\All Equipment,1=0,8111B1E4-7777,
@@ -7418,11 +7422,11 @@ Max\Double Defense Power,1=0,8011B217-0014,
 Infinite\Timers\All other Timers,1=0,8011C519-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D8A-0006,801F32A8-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C51D-00B4,
-Subscreen Delay Fix,1=1,801DB78B-0002,
-End Credits Fix,1=1,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
+Subscreen Delay Fix,1=0,801DB78B-0002,
+End Credits Fix,1=0,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
 
 [THE LEGEND OF ZELDA JP GC]
-NumberOfGroups=42
+NumberOfGroups=40
 Infinite\Rupees,1=0,8111C534-0001,
 Use Any Item In Any House,1=0,8111C38A-0000,8111C38C-0000,
 Have\All Equipment,1=0,8111B204-7777,
@@ -7463,8 +7467,8 @@ Max\Double Defense Power,1=0,8011B237-0014,
 Infinite\Timers\All other Timers,1=0,8011C539-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D8A-0006,801EFD48-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C53D-00B4,
-Subscreen Delay Fix,1=1,801DB78B-0002,
-End Credits Fix,1=1,D109A834-0320,8109A834-0000,D109A836-F809,8109A836-0000,
+Subscreen Delay Fix,1=0,801DB78B-0002,
+End Credits Fix,1=0,D109A834-0320,8109A834-0000,D109A836-F809,8109A836-0000,
 
 [EVANGELION JP]
 NumberOfGroups=4
@@ -7567,7 +7571,7 @@ Super Speed,1=0,8122AEB8-4800,
 Always 1st,1=0,8022AD06-0001,
 
 [DONKEY KONG 64 EU]
-NumberOfGroups=65
+NumberOfGroups=64
 Donkey Kong\Infinite Ammo,1=0,807FCB85-0096,
 Infinite\Health,1=0,817FCB8C-041F,
 Donkey Kong\Infinite Musical Instrument,1=0,817FC894-0103,817FC898-00FF,
@@ -7635,7 +7639,8 @@ Free Pass (Access All Areas),1=0,8066D167-0001,8066D262-0001,
 Bone displacement fix,1=0,806128E2-0000,
 
 [DONKEY KONG 64 JP]
-NumberOfGroups=1
+NumberOfGroups=0
+
 Bone displacement fix,1=0,806170A2-0000,
 
 [D K DISPLAY US]
@@ -7644,7 +7649,7 @@ Infinite Max DK Tokens,1=0,803A8FD5-0063,
 Infinite Max Health,1=0,807B6760-0008,807B675F-0003,
 
 [DONKEY KONG 64 US]
-NumberOfGroups=65
+NumberOfGroups=64
 Donkey Kong\Infinite Ammo,1=0,807FCC45-0096,
 Infinite\Health,1=0,817FCC4C-041F,
 Donkey Kong\Infinite Musical Instrument,1=0,817FC954-0103,817FC958-00FF,
@@ -7835,12 +7840,14 @@ Infinite 99 Lives,1=0,80163AC7-0063,
 Infinite Lives (Retro Frogger),1=0,8025AC2F-0005,
 
 [EMPTY B]
-NumberOfGroups=1
-Save fix,1=1,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001,
+NumberOfGroups=0
+
+”Save fix”,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001
 
 [DERBYSTALLION 64 JP]
-NumberOfGroups=1
-Save fix,1=1,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001,
+NumberOfGroups=0
+
+”Save fix”,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001
 
 [VIRTUALCHESS EU]
 NumberOfGroups=0
@@ -10984,94 +10991,94 @@ Always Get a Strike (Player 1),1=0,8112E814-0106,50000802-001E,810DF630-001E,810
 Unlock Everything,1=0,8009D09F-00FF,
 
 [POKEMON SNAP AU]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C2CD2-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80382CB7-0000,
 Have\Apples Bombs and Flute,1=0,803AE51F-0004,
 Press L To Stop (All Levels,1=0,D00488A1-0020,8000AF58-0024,D00488A0-0010,8000AF58-0092,
 Infinite Film,1=0,800ACBA3-0000,
-Pass 1st Level and Controller Fix,1=1,D1382D1C-802C,80382D0F-0000,
-Make Picture selectable,1=1,D11E3C44-2881,811E3C44-2001,D11E3C46-0098,811E3C46-0001,
+Pass 1st Level and Controller Fix,1=0,D1382D1C-802C,80382D0F-0000,
+Make Picture selectable,1=0,D11E3C44-2881,811E3C44-2001,D11E3C46-0098,811E3C46-0001,
 
 [POKEMON SNAP EU]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C2712-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE02F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=1,D11E3824-2881,811E3824-2001,D11E3826-0098,811E3826-0001,
+Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=0,D11E3824-2881,811E3824-2001,D11E3826-0098,811E3826-0001,
 
 [POKEMON SNAP FR]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C2552-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE03F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=1,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
+Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=0,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
 
 [POKEMON SNAP GE]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C24D2-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE02F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=1,D1381BDC-802C,80381BCF-0000,
-Make Picture selectable,1=1,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
+Pass 1st Level and Controller Fix,1=0,D1381BDC-802C,80381BCF-0000,
+Make Picture selectable,1=0,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
 
 [POKEMON SNAP IT]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C2712-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE03F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=1,D11E3994-2881,811E3994-2001,D11E3996-0098,811E3996-0001,
+Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=0,D11E3994-2881,811E3994-2001,D11E3996-0098,811E3996-0001,
 
 [POKEMON SNAP JP]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C18E2-0006,
 Have\Rapid Fire Apples and Bombs,1=0,8036D1C7-0000,
 Have\Apples Bombs and Flute,1=0,803A7DAF-0004,
 Press L To Stop (All Levels,1=0,D00484B1-0020,8000AB68-0024,D00484B0-0010,8000AB68-0092,
 Infinite Film,1=0,800ABBF3-0000,
-Pass 1st Level and Controller Fix,1=1,D136D22C-802A,8036D21F-0000,
-Make Picture selectable,1=1,D11E1EC4-2881,811E1EC4-2001,D11E1EC6-0098,811E1EC6-0001,
+Pass 1st Level and Controller Fix,1=0,D136D22C-802A,8036D21F-0000,
+Make Picture selectable,1=0,D11E1EC4-2881,811E1EC4-2001,D11E1EC6-0098,811E1EC6-0001,
 
 [POKEMON SNAP SP]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C2712-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE03F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=1,D11E38C4-2881,811E38C4-2001,D11E38C6-0098,811E38C6-0001,
+Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=0,D11E38C4-2881,811E38C4-2001,D11E38C6-0098,811E38C6-0001,
 
 [POKEMON SNAP US]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C2212-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80382CB7-0000,
 Have\Apples Bombs and Flute,1=0,803AE51F-0004,
 Press L To Stop (All Levels,1=0,D00489E1-0020,8000B0A8-0024,D00489E0-0010,8000B0A8-0092,
 Infinite Film,1=0,800AC0E3-0000,
-Pass 1st Level and Controller Fix,1=1,D1382D1C-802C,80382D0F-0000,
-Make Picture selectable,1=1,D11E3184-2881,811E3184-2001,D11E3186-0098,811E3186-0001,
+Pass 1st Level and Controller Fix,1=0,D1382D1C-802C,80382D0F-0000,
+Make Picture selectable,1=0,D11E3184-2881,811E3184-2001,D11E3186-0098,811E3186-0001,
 
 [POKEMON SNAP US]
-NumberOfGroups=7
+NumberOfGroups=5
 Enable All Levels,1=0,810C2232-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80382CB7-0000,
 Have\Apples Bombs and Flute,1=0,803AE51F-0004,
 Press L To Stop (All Levels,1=0,D00489E1-0020,8000B0A8-0024,D00489E0-0010,8000B0A8-0092,
 Infinite Film,1=0,800AC0E3-0000,
-Pass 1st Level and Controller Fix,1=1,D1382D1C-802C,80382D0F-0000,
-Make Picture selectable,1=1,D11E30F4-2881,811E30F4-2001,D11E30F6-0098,811E30F6-0001,
+Pass 1st Level and Controller Fix,1=0,D1382D1C-802C,80382D0F-0000,
+Make Picture selectable,1=0,D11E30F4-2881,811E30F4-2001,D11E30F6-0098,811E30F6-0001,
 
 [DAIKATANA EU]
 NumberOfGroups=7
