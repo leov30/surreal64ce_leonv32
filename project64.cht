@@ -6957,13 +6957,12 @@ Cheat6="No music",800B7718 0000
  
 [63E7391C-E6CCEA33-C:45]
 Name=Tom and Jerry in Fists of Furry (USA)
-Cheat0="Unlock All Characters",810E44F2 00FF
-Cheat1="Open All Versus Arenas",810E44F4 03FF
-Cheat2="Infinite Health\Player 1",810E279C 42C8
-Cheat3="One Hit To Kill\Player 1",810E2A74 3F80
-Cheat4="One Hit To Kill\Player 2",810E2D4C 3F80
-Cheat5="Infinite Health\Player 2",810E2A74 42C8
-Cheat6="Infinite Time",810FED4C 42F0
+Cheat0="Open All Versus Arenas",810E44F4 03FF
+Cheat1="Infinite Health\Player 1",810E279C 42C8
+Cheat2="One Hit To Kill\Player 1",810E2A74 3F80
+Cheat3="One Hit To Kill\Player 2",810E2D4C 3F80
+Cheat4="Infinite Health\Player 2",810E2A74 42C8
+Cheat5="Infinite Time",810FED4C 42F0
  
 [0414CA61-2E57B8AA-C:50]
 Name=GoldenEye 007 (Europe)

@@ -16,13 +16,13 @@ Access\All Gadgets and Items,1=0,801147DD-0001,
 Infinite\Health (All Levels),1=0,8106DF3C-2400,
 Infinite\Ammo On All Levels,1=0,81064E0C-2400,
 
-[TWINE US B]
+[TWINE USB]
 NumberOfGroups=3
 Enable Cheats Menu,1=0,800811F0-0005,
 Infinite Health (All Levels),1=0,81045D68-2400,
 Infinite Ammo (All Guns for all Levels),1=0,81040730-2400,
 
-[TWINE US B]
+[TWINE USB]
 NumberOfGroups=2
 Infinite Health (All Levels),1=0,8106AC88-2400,
 Infinite Ammo (All Guns for all Levels),1=0,8106246C-2400,
@@ -75,7 +75,7 @@ No Penalties in Tounament,1=0,80111F08-0001,
 [UNI_CHAR JP]
 NumberOfGroups=0
 
-[MARIOKART64 EU R1]
+[MARIOKART64 EUR1]
 NumberOfGroups=9
 Press GS\For Full Debug Menu,1=0,8818EE4F-0002,
 Press L To Levitate\Player 1,1=0,D00F6975-0020,810F6A28-4000,
@@ -99,7 +99,7 @@ Battle Mode\Infinite Balloons\Player 2,1=0,8118DA02-0003,
 Battle Mode\Infinite Balloons\Player 3,1=0,8118DA04-0003,
 Battle Mode\Infinite Balloons\Player 4,1=0,8118DA06-0003,
 
-[MARIOKART64 JP R1]
+[MARIOKART64 JPR1]
 NumberOfGroups=9
 Press GS\For Full Debug Menu,1=0,8818B5BF-0002,
 Press L To Levitate\Player 1,1=0,D00F61B5-0020,810F6268-4000,
@@ -124,7 +124,7 @@ Battle Mode\Infinite Balloons\Player 3,1=0,8118B2D4-0003,
 Battle Mode\Infinite Balloons\Player 4,1=0,8118B2D6-0003,
 
 [MARIOKART64 US]
-NumberOfGroups=9
+NumberOfGroups=10
 Press GS\For Full Debug Menu,1=0,8818EDEF-0002,
 Press L To Levitate\Player 1,1=0,D00F6915-0020,810F69C8-4000,
 Press L To Levitate\Player 2,1=0,D00F6925-0020,810F77A0-4000,
@@ -187,7 +187,7 @@ Press L To Levitate,1=0,D0309261-0020,8130947C-4220,D030947D-0020,8130943C-0300,
 [Slot D Codes]\Have All\key doors unlocked (and mote empty),1=0,8020305A-007E,
 [Slot D Codes]\Have All\Max 100 Coin Records For All Levels,1=0,50000F01-0000,80203075-0064,
 
-[SUPERMARIO64 JP R3]
+[SUPERMARIO64 JPR3]
 NumberOfGroups=17
 Infinite\Energy & Breath,1=0,8031DA6E-0008,
 Infinite\Lives,1=0,8031DA6D-0064,
@@ -264,7 +264,7 @@ Freeze All Lap Timers,1=0,8013CBD1-0001,8013CBD5-0001,8013CBD9-0001,
 Freeze Overall Timer,1=0,8013CBC5-0001,
 Always 1st,1=0,8013CC10-0001,
 
-[AEROGAUGE JP R1]
+[AEROGAUGE JPR1]
 NumberOfGroups=6
 No Damage\Player 1,1=0,50000402-0000,8113D058-0000,
 No Damage\Player 2,1=0,50000402-0000,8113F0E8-0000,
@@ -361,7 +361,7 @@ Infinite\Gold Pickups,1=0,802EB9E8-0064,
 Extra Bonuses,1=0,810EB9EA-270F,
 Max Spin Bar (Fake?),1=0,800EB9C3-0009,
 
-[Taz Express US P]
+[Taz Express USP]
 NumberOfGroups=5
 Infinite\Health,1=0,800EBA47-0009,
 Infinite\Crate Attempts,1=0,800A9D1B-0007,
@@ -576,7 +576,7 @@ Have All\Season\Gold Cups,1=0,800D4B55-001F,800D4B56-001F,800D4B7A-001F,800D4B9E
 [EXCITEBIKE64 US]
 NumberOfGroups=0
 
-[EXCITEBIKE64 US R1]
+[EXCITEBIKE64 USR1]
 NumberOfGroups=7
 Have All\Difficulties and Tracks Unlocked,1=0,800F255F-000F,800F2560-0003,
 Have All\Season\Bronze Cups,1=0,800CB30C-001F,800CB30D-001F,800CB30E-001F,
@@ -675,7 +675,7 @@ NumberOfGroups=2
 Have All Items,1=0,811BA010-0101,811BA012-0101,811BA014-0101,811BA016-0101,811BA018-0101,
 Infinite Health and Courage,1=0,80086CCB-0038,800BB097-0007,
 
-[SCOOBY-DOO US R1]
+[SCOOBY-DOO USR1]
 NumberOfGroups=2
 Have All Items,1=0,811B9F70-0101,811B9F72-0101,811B9F74-0101,811B9F76-0101,811B9F78-0101,
 Infinite Health and Courage,1=0,80086C2B-0038,800BAFF7-0007,
@@ -955,13 +955,13 @@ NumberOfGroups=2
 Infinite\Lives,1=0,800F38C5-000A,
 Infinite\Energy,1=0,800FB897-00FF,
 
-[TACTICS SOCCER JP R1]
+[TACTICS SOCCER JPR1]
 NumberOfGroups=0
 
 [TACTICS SOCCER JP]
 NumberOfGroups=0
 
-[UNI_CHAR64 JP R1]
+[UNI_CHAR64 JPR1]
 NumberOfGroups=0
 
 [UNI_CHAR64 JP]
@@ -1071,7 +1071,7 @@ Access\All Secret Characters,1=0,50000C04-0000,801839CF-0001,
 Max Points,1=0,80183A33-0064,
 Always 1st,1=0,80170CC3-0001,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=8
 Infinite\Health,1=0,8120AEAE-0050,
 Infinite\Max Zenny,1=0,811C0E4C-0098,811C0E4E-967F,
@@ -1212,14 +1212,14 @@ NumberOfGroups=0
 [F1 WORLD GRAND PRIX US]
 NumberOfGroups=0
 
-[DragonStorm EU P]
+[DragonStorm EUP]
 NumberOfGroups=4
 Infinite Max\Lives (Credits),1=0,8012920B-0009,
 Infinite Max\Health,1=0,81145E6C-4316,
 [Press Z for Levitate],1=0,D00DDF88-0020,8014665D-00EF,
 [Have 999999 Score],1=0,811458C4-000F,811458C6-423F,
 
-[DragonStorm P]
+[DragonStormP]
 NumberOfGroups=5
 Infinite Max\Lives (Credits),1=0,801A62DF-0063,
 Infinite Max\Health,1=0,811A68E4-4316,
@@ -1299,7 +1299,7 @@ Multi\Infinite Bio Suit\Player 2,1=0,811665B0-42C8,
 Multi\Have\All Weapons\Player 2,1=0,8016661B-007F,
 Multi\Infinite Ammo\Player 2,1=0,50000402-0000,8116665C-03E7,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [South Park Rally EU]
@@ -1316,13 +1316,13 @@ Have\All\Races,1=0,81088756-FFFF,
 Have\All\Tracks,1=0,8108875A-FFFF,
 Infinite Credits,1=0,8008D659-0063,
 
-[Glover2 US P]
+[Glover2 USP]
 NumberOfGroups=3
 Infinite\Max Lives,1=0,802978F3-00FF,
 Infinite\Max Magical\Ball Energy,1=0,80297C47-00FF,
 Infinite\Max Magical\Spell Energy,1=0,80297B2B-00FF,
 
-[Glover2 US P]
+[Glover2 USP]
 NumberOfGroups=21
 Infinite\Max Lives,1=0,80288127-00FF,80270697-00FF,
 Infinite\Max Health,1=0,8027069B-0006,8027069D-0006,802881CB-0006,
@@ -1430,7 +1430,7 @@ Access All Levels,1=0,8008A9D6-0001,8008A9EA-0001,8008AA12-0001,8008AA62-0001,80
 Infinite\Health,1=0,810866C2-FFFF,
 Freeze All Timers,1=0,81094150-0063,81094152-0063,81094154-0063,
 
-[MISSION IMPOSSIBLE SP R1]
+[MISSION IMPOSSIBLE SPR1]
 NumberOfGroups=0
 
 [MISSION IMPOSSIBLE SP]
@@ -1513,7 +1513,7 @@ NumberOfGroups=2
 Start off with Car Position view from behind,1=0,800ADEF3-0020,
 Start with  254L Fuel,1=0,800AE45F-00FF,
 
-[Monaco Grand Prix US B]
+[Monaco Grand Prix USB]
 NumberOfGroups=3
 Start off with Car Position view from behind,1=0,800AF71F-0020,
 Start with  254L Fuel,1=0,800AFB23-00FF,
@@ -1603,7 +1603,7 @@ Have\Backpack,1=0,8012FD9B-0001,8012FDDB-0001,
 Have\Cheat Menu,1=0,811205F0-FFFF,811205F2-FFFF,
 Open All Portals,1=0,811568CA-F803,8112FD4E-0003,8112FD52-0003,8112FD5A-0003,8112FD5E-0003,8112FD62-0003,8112FD66-0005,
 
-[TUROK_DINOSAUR_HUNTE EU R2]
+[TUROK_DINOSAUR_HUNTE EUR2]
 NumberOfGroups=9
 Infinite\Lives,1=0,80128FAB-00FF,
 Infinite\Air,1=0,80129180-0063,801E873A-0063,
@@ -1627,7 +1627,7 @@ Have\Backpack,1=0,80128CEB-0001,80128D2B-0001,
 Have\Cheat Menu,1=0,811195F0-FFFF,811195F2-FFFF,
 Open All Portals,1=0,8114F8CA-F803,81128D4E-0003,81128D52-0003,81128D5A-0003,81128D5E-0003,81128D62-0003,81128D66-0005,
 
-[TUROK_DINOSAUR_HUNTE GE R1]
+[TUROK_DINOSAUR_HUNTE GER1]
 NumberOfGroups=9
 Infinite\Lives,1=0,80128F3B-00FF,
 Infinite\Air,1=0,80129110-0063,801E86CA-0063,
@@ -1666,7 +1666,7 @@ Open All Portals,1=0,8114F8CA-F803,81128D4E-0003,81128D52-0003,81128D5A-0003,811
 [POKEMON STADIUM JP]
 NumberOfGroups=0
 
-[duke US B]
+[duke USB]
 NumberOfGroups=15
 In-Game Cheats\Access Cheat menu,1=0,50000504-0000,80100778-0001,
 Single-Player (All Levels)\Have Infinite Health (All Levels),1=0,80246683-0064,8026DE7B-0064,802A4C1D-0064,
@@ -1939,13 +1939,13 @@ Unlock All\Levels,1=0,50000301-0000,80062508-0001,50000901-0000,8006250C-0001,50
 [WCWvs.NWO EU]
 NumberOfGroups=0
 
-[WCWvs.NWO US R1]
+[WCWvs.NWO USR1]
 NumberOfGroups=0
 
 [WCWvs.NWO US]
 NumberOfGroups=0
 
-[Wipeout 64 EU B]
+[Wipeout 64 EUB]
 NumberOfGroups=9
 Freeze Checkpoint Timer,1=0,810CEFA2-BCCC,
 Always 1st\Player 1,1=0,8109CD78-0001,81092F16-0003,
@@ -1988,10 +1988,10 @@ Always 1st\Player 1,1=0,8109BC68-0001,81091E06-0003,
 [Bass Rush JP]
 NumberOfGroups=0
 
-[TONY HAWK PRO SKATER US B]
+[TONY HAWK PRO SKATER USB]
 NumberOfGroups=0
 
-[TONY HAWK PRO SKATER US R1]
+[TONY HAWK PRO SKATER USR1]
 NumberOfGroups=55
 Officer Dick\Have\All\Tapes,1=0,50000901-0000,800DEAC8-00FF,
 Officer Dick\Have\All\Gold Medal\Burnside,1=0,800DEACE-00FF,
@@ -2324,7 +2324,7 @@ Goemon\Maximum Money,1=0,812F70EA-03E7,
 Goemon\Robot Boss' Has No Health,1=0,812F7062-0000,
 Goemon\D-Pad Left To Charge Laser,1=0,D00C7D3A-0002,802F706F-0064,
 
-[ROAD RASH 64 EU B]
+[ROAD RASH 64 EUB]
 NumberOfGroups=0
 
 [ROAD RASH 64 EU]
@@ -2349,7 +2349,7 @@ Infinite\Damage,1=0,801C0D17-0002,
 Infinite\Health\To Bike,1=0,811B8A38-42F0,811B8A3C-42F0,
 Infinite\Health\To Character,1=0,811BFE10-4489,811BFE12-8000,
 
-[CARNIVAL US P]
+[CARNIVAL USP]
 NumberOfGroups=6
 Infinite Max Silver & Gold Coins,1=0,810A2E7E-001E,810A2E80-001E,810A2E82-001E,
 Infinite Max Peas,1=0,810A2E7A-001E,
@@ -2442,7 +2442,7 @@ Start with  254L Fuel,1=0,800B04B3-00FF,
 [Racing Simulation 2 GE]
 NumberOfGroups=0
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=0
 
 [Fighting Force EU]
@@ -2460,7 +2460,7 @@ Infinite Pistol Ammo,1=0,8106006C-2400,
 Infinite Rocket Launcher Ammo,1=0,81060130-2400,
 Infinite Shotgun Ammo,1=0,810601D8-2400,
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=3
 Press L to Levitate,1=0,D008EBA5-0020,80255F65-00CC ,
 Press B Button to Re-Live,1=0,D008EBA4-0040,8025637F-0000,
@@ -2490,16 +2490,16 @@ Extra Cars & Tracks,1=0,50000201-0000,8032690C-00FF,8032690F-00FF,813243CC-FFFF,
 Only Race 1 Lap Championship Mode,1=0,8031EBDB-0002,
 Always Place 1st,1=0,8131C70E-0000,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
-[PAWAFURU PUROYAKYU4 JP R1]
+[PAWAFURU PUROYAKYU4 JPR1]
 NumberOfGroups=0
 
 [PAWAFURU PUROYAKYU4 JP]
 NumberOfGroups=0
 
-[OgreBattle64 JP R1]
+[OgreBattle64 JPR1]
 NumberOfGroups=15
 Infinite Goth,1=0,8119610E-FFFF,
 Max Goth,1=0,8119610C-0098,8119610E-967F,
@@ -2517,7 +2517,7 @@ Magnus\Max Mem,1=0,811932BA-03E7,
 Magnus\Max Agi,1=0,811932BC-03E7,
 Magnus\Max Dex,1=0,811932BE-3E77,
 
-[OgreBattle64 US R1]
+[OgreBattle64 USR1]
 NumberOfGroups=15
 Infinite Goth,1=0,81196A8E-FFFF,
 Max Goth,1=0,81196A8C-0098,81196A8E-967F,
@@ -2700,7 +2700,7 @@ Other Codes\Have\Sumo Santa,1=0,810AA106-0001,
 Other Codes\Have\Booger Man,1=0,810AA12A-0001,
 Other Codes\Debug Mode,1=0,810AA1A6-0001,
 
-[WWF No Mercy EU R1]
+[WWF No Mercy EUR1]
 NumberOfGroups=0
 
 [WWF No Mercy EU]
@@ -2754,7 +2754,7 @@ Hacked Moves\Running Tazplex,1=0,D106B454-3A7A,D106B456-0000,8106B460-00BC,D106B
 Tables\MOVABLE TABLES,1=0,81052C24-06E1,81052C26-06E3,81052C2C-09F1,81052C2E-09EF,81052C30-06E2,81052C32-06E5,81052C38-09F1,81052C3A-09EF,81052C48-06E4,81052C4A-06E6,81052C50-09EF,81052C52-09EF,8116C3E4-0000,8116C3E6-0001,8116C3E8-0000,8116C3EA-0001,8116C498-0000,8116C49A-0003,8116C49C-0000,8116C49E-0003,8116C330-0000,8116C332-0000,8116C334-0000,8116C336-0000,D116C556-0000,8116C33A-0000,D116C33A-0000,8116C3EE-0000,D116C3EE-0000,8116C4A2-0000,D116C556-0001,8116C33A-0001,D116C33A-0001,8116C3EE-0001,D116C3EE-0001,8116C4A2-0001,D116C556-0002,8116C33A-0002,D116C33A-0002,8116C3EE-0002,D116C3EE-0002,8116C4A2-0002,D116C556-0003,8116C33A-0003,D116C33A-0003,8116C3EE-0003,D116C3EE-0003,8116C4A2-0003,D116C556-FFFF,8116C33A-FFFF,D116C33A-FFFF,8116C3EE-FFFF,D116C3EE-FFFF,8116C4A2-FFFF,D216C556-FFFF,81079B10-3F80,D1064886-2000,81079B10-3F81,D106488C-2000,81079B10-3F81,D1064892-2000,81079B10-3F81,D116C33A-FFFF,8116C382-0000,D116C382-0000,8116C386-0000,D116C386-0000,8116C38A-0000,D116C38A-0000,8116C38E-0000,D116C38E-0000,8116C436-0000,D116C436-0000,8116C43A-0000,D116C43A-0000,8116C43E-0000,D116C43E-0000,8116C442-0000,D116C442-0000,8116C4EA-0000,D116C4EA-0000,8116C4EE-0000,D116C4EE-0000,8116C4F2-0000,D116C4F2-0000,8116C4F6-0000,D116C594-42B4,D116C556-FFFF,8116C378-4335,D116C378-4335,8116C42C-4335,D116C42C-4335,8116C4E0-4335,D116C594-3DC7,D116C556-FFFF,8116C378-42B0,D116C378-42B0,8116C42C-42B0,D116C42C-42B0,8116C4E0-42B0,D1064880-2000,81079B10-3F81,D1079B10-3F81,D116C594-42B4,D116C556-FFFF,8116C378-42F0,D116C378-42F0,8116C42C-42F0,D116C42C-42F0,8116C4E0-42F0,D1079B10-3F81,8116C38A-0F00,D116C38A-0F00,8116C43E-0100,D116C594-3C93,8116C378-42B0,81052D18-0000,81052D1A-0000,D116C54C-0000,8116C54E-0018,D116C550-0000,8116C552-0018,
 Tables\Sabu Table,1=0,8116C49A-000C,8116C49E-000C,8116C4DC-43CC,8116C4E0-42E6,8116C4E4-C2C5,8116C4EE-0800,8116C602-000C,8116C606-000C,8116C648-42E6,8116C644-43CC,8116C64C-C314,81052C54-06E3,81052C5C-09EF,8116C6F8-43CC,8116C6FC-42F0,8116C700-C2F1,8116C70A-0400,8116C428-43CC,8116C430-C2D0,8116C42C-42F0,8116C43A-0C00,8116C6B6-0004,8116C6BA-0004,8116C3E6-0004,8116C3EA-0004,D1064880-2000,81005592-3F81,D1005592-3F81,8116C4EA-0F00,D1005592-3F81,8116C652-0100,D1005592-3F81,8116C4E0-4240,D1005592-3F81,8116C648-4240,D1064880-0005,81005CD4-3F83,D1005CD4-3F83,8116C4EA-0000,D1005CD4-3F83,8116C652-0000,D1005CD4-3F83,8116C4E0-42E6,D1005CD4-3F83,8116C648-42E6,D1005CD4-3F83,D1064880-2000,81005CD4-0000,
 
-[WWF No Mercy US R1]
+[WWF No Mercy USR1]
 NumberOfGroups=0
 
 [WWF No Mercy US]
@@ -2837,7 +2837,7 @@ NumberOfGroups=0
 [WGHOCKEY JP]
 NumberOfGroups=0
 
-[W.G. 3DHOCKEY US R1]
+[W.G. 3DHOCKEY USR1]
 NumberOfGroups=0
 
 [W.G. 3DHOCKEY US]
@@ -2847,8 +2847,8 @@ Extra Teams,1=0,800C7205-0001,
 Get In Fights Constantly,1=0,800A442E-0020,
 
 [YAKOUTYUU2 JP]
-NumberOfGroups=0
-�Boot Fix,1=1,811B20C0-0000,811B20C2-0000,
+NumberOfGroups=1
+Boot Fix,1=1,811B20C0-0000,811B20C2-0000,
 
 [NITRO64 US]
 NumberOfGroups=0
@@ -2972,10 +2972,10 @@ Press L To Levitate\Player 2,1=0,D0042DAE-0020,810CCA3C-41CB,
 Press L To Levitate\Player 3,1=0,D0042DB5-0020,810CCD68-41CB,
 Press L To Levitate\Player 4,1=0,D0042DBE-0020,810CD094-41CB,
 
-[CONKER BFD-DEBUG US B]
+[CONKER BFD-DEBUG USB]
 NumberOfGroups=0
 
-[CBFD-ECTS US B]
+[CBFD-ECTS USB]
 NumberOfGroups=11
 Infinite Health\Player 1,1=0,800BCFD7-0006,
 Infinite 99 Lives,1=0,800B9B84-0063,
@@ -3036,7 +3036,7 @@ NumberOfGroups=2
 Infinite Match Time,1=0,800AB433-0000,
 Unlock Extras,1=0,800ACA05-00FF,800ACA07-00FF,
 
-[Indiana Jones EU P]
+[Indiana Jones EUP]
 NumberOfGroups=3
 All Weapons and Infinite Ammo,1=0,50004702-0000,810C2D7A-0199,50002502-0000,810C2E0A-0199,
 Always Have $9,99,1=0,810C2E08-270F,
@@ -3077,7 +3077,7 @@ Found All RDUS,1=0,8036E9CC-C350,
 Found All Survivors,1=0,8036E9C9-00FF,
 Found All Scientists,1=0,80364AD0-003F,
 
-[Blast Corps US R1]
+[Blast Corps USR1]
 NumberOfGroups=8
 Infinite\Hydraulics Sidesweeper,1=0,803EDC00-0063,
 Infinite\Missiles Motor Bike,1=0,803F8B72-0063,
@@ -3144,10 +3144,10 @@ NumberOfGroups=2
 Infinite Vespene gas,minerals & Most missions,1=0,50003202-0000,800B1D96-00FF,
 All levels complete,1=0,800D1364-000C,50000501-0000,800D1365-000A,
 
-[STARCRAFT 64 GE P]
+[STARCRAFT 64 GEP]
 NumberOfGroups=0
 
-[UNI_CHAR2UNI_CHAR8y)UNI_CHARtUUNI_CHARy7UNI_CHAR]UNI_CHAR9 B]
+[UNI_CHAR2UNI_CHAR8y)UNI_CHARtUUNI_CHARy7UNI_CHAR]UNI_CHAR9B]
 NumberOfGroups=0
 
 [STARCRAFT 64 US]
@@ -3210,7 +3210,7 @@ Infinite\Boost\Player 2,1=0,8114A98C-0000,8114A98E-0000,8114D86C-0000,8114D86E-0
 Infinite\Boost\Player 3,1=0,8114AE6C-0000,8114AE6E-0000,8114DD4C-0000,8114DD4E-0000,
 Infinite\Boost\Player 4,1=0,8114B34C-0000,8114B34E-0000,8114E22C-0000,8114E22E-0000,
 
-[STARFOX64 US R1]
+[STARFOX64 USR1]
 NumberOfGroups=18
 Infinite\Boost\Player 1,1=0,8113C68C-0000,8113C68E-0000,8113F56C-0000,8113F56E-0000,
 Have All Medals,1=0,50000802-0000,81178870-7777,
@@ -3335,7 +3335,7 @@ Access All Moves and Pads,1=0,8037CD71-00FF,8137CD72-FFFF,
 Have\All Jiggys,1=0,50000D01-0000,80383CA0-00FF,
 Have\Everything Unlocked,1=0,80383B8D-00FF,81383B8E-FFFF,80383B90-00FF,81383B92-FFFF,80383B97-00FF,80383BA4-8005,80383B9F-00A2,
 
-[Banjo-Kazooie US R1]
+[Banjo-Kazooie USR1]
 NumberOfGroups=15
 Infinite\Eggs,1=0,80385187-00FF,
 Infinite\Lives,1=0,803851AB-0009,
@@ -3575,7 +3575,7 @@ One Hit Death\Player 1,1=0,D008B287-0064,8008B287-0001,
 One Hit Death\Player 2,1=0,D008AEFF-0064,8008AEFF-0001,
 Fight With Bunny Slippers On,1=0,81138914-0100,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [MACE US]
@@ -3614,7 +3614,7 @@ Access All Levels,1=0,80200B66-00FF,
 Have 99 Carrots,1=0,80200B2F-0063,
 Have All Levels Completed,1=0,80200B6A-0019,80200B6B-0019,80200B6C-0015,80200B6D-0018,80200B6E-0017,80200B6F-0017,
 
-[Chameleon Twist US R1]
+[Chameleon Twist USR1]
 NumberOfGroups=5
 Access All Levels,1=0,801FC5E6-00FF,801FC5E8-00FF,
 Have 99 Crowns,1=0,8024337B-0063,
@@ -3702,7 +3702,7 @@ Hold jump to fly (A Button),1=0,810BB4EC-0002,
 Hold L & Press B For Special Weapon,1=0,D00ACD41-0020,810BB616-0040,
 Unlock all Levels for Stage select,1=0,801E223C-0001,
 
-[Toy Story 2 US R1]
+[Toy Story 2 USR1]
 NumberOfGroups=7
 Have\99 Coins,1=0,810BB55E-0063,
 Have\All 5 Collectables,1=0,811C7EC2-0005,
@@ -3722,7 +3722,7 @@ Hold jump to fly (A Button),1=0,810BB0FC-0002,
 Hold L & Press B For Special Weapon,1=0,D00ACA21-0020,810BB226-0040,
 Unlock all Levels for Stage select,1=0,801E2DCC-0001,
 
-[Toy Story 2 GE R1]
+[Toy Story 2 GER1]
 NumberOfGroups=7
 Have\99 coins,1=0,810BBBFE-0063,
 Have\All 5 Collectables,1=0,811C8562-0005,
@@ -3887,7 +3887,7 @@ Low Timer,1=0,810259E4-3001,
 [Chamipionship Mode Only]\Have 100 Bonus Points\05 Metro Madness,1=0,8035FF5B-0064,
 [Chamipionship Mode Only]\Have 100 Bonus Points\06 Wicked Woods,1=0,80359043-0064,
 
-[Kirby64 JP R1]
+[Kirby64 JPR1]
 NumberOfGroups=9
 Get All Crystals,1=0,50000701-0000,800D55C0-0001,50001701-0000,800D55C8-0007,
 Unlock All Difficulty Levels\100 Yard Hop,1=0,800D55B9-0003,
@@ -3899,7 +3899,7 @@ Can Fly Forever,1=0,8112CF2E-00F0,
 All Stages Complete,1=0,50002B01-0000,800D55E0-0002,
 Game 100% Complete\Save Slot 1,1=0,800EB470-0064,
 
-[Kirby64 JP R2]
+[Kirby64 JPR2]
 NumberOfGroups=9
 Get All Crystals,1=0,50000701-0000,800D51B0-0001,50001701-0000,800D51B8-0007,
 Unlock All Difficulty Levels\100 Yard Hop,1=0,800D51A9-0003,
@@ -3911,7 +3911,7 @@ Can Fly Forever,1=0,8112CD0E-00F0,
 All Stages Complete,1=0,50002B01-0000,800D51D0-0002,
 Game 100% Complete\Save Slot 1,1=0,800EAFC8-0064,
 
-[Kirby64 JP R3]
+[Kirby64 JPR3]
 NumberOfGroups=9
 Get All Crystals,1=0,50000701-0000,800D51D0-0001,50001701-0000,800D51D8-0007,
 Unlock All Difficulty Levels\100 Yard Hop,1=0,800D51C9-0003,
@@ -4003,7 +4003,7 @@ Freeze Timer,1=0,801D5E51-0009,801D5E52-0009,
 All Training Complete\Player 1,1=0,50000A01-0000,80127DE8-0078,
 All Training Complete\Player 2,1=0,50000A01-0000,80127DE8-0078,
 
-[KILLER INSTINCT GOLD US R1]
+[KILLER INSTINCT GOLD USR1]
 NumberOfGroups=12
 Unlock All Options,1=0,801283AC-0006,
 Fight Gargos Immediately\Player 1,1=0,8012834B-000A,
@@ -4018,7 +4018,7 @@ Freeze Timer,1=0,801D5D51-0009,801D5D52-0009,
 All Training Complete\Player 1,1=0,50000A01-0000,80127CE8-0078,
 All Training Complete\Player 2,1=0,50000A01-0000,80127CE8-0078,
 
-[Killer Instinct Gold US R2]
+[Killer Instinct Gold USR2]
 NumberOfGroups=12
 Unlock All Options,1=0,8012823C-0006,
 Fight Gargos Immediately Player 1,1=0,801283DB-000A,
@@ -4054,15 +4054,15 @@ NumberOfGroups=0
 [WCW BACKSTAGE US]
 NumberOfGroups=0
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=1
 [08D49262-03763D39-C:00]
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=1
 [A1F51C25-16D61291-C:00]
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=4
 [E43C9765-05B1C1BE-C:4A]
 Max HP,1=0,812D71F8-03E7,
@@ -4288,7 +4288,7 @@ Enable Restart Match option,1=0,8004925B-0002,
 1 Round To Win Player 1,1=0,D01050F3-0000,801050F3-0001,
 99 Wins Player 1,1=0,800FE27F-0063,
 
-[LALA US P]
+[LALA USP]
 NumberOfGroups=0
 
 [JINSEI-GAME64 JP]
@@ -4319,7 +4319,7 @@ All Stages & Chapters Unlocked,1=0,80163648-003B,
 All 52 Gold Gems Collected,1=0,80163640-0003,80163641-007E,80163642-00FF,80163643-00EF,80163644-00FF,80163645-007F,80163646-00FF,80163647-00FC,
 Level Select,1=0,D10B0878-2030,800B0871-0004,
 
-[MISCHIEF MAKERS US R1]
+[MISCHIEF MAKERS USR1]
 NumberOfGroups=6
 Infinite Health\Marina,1=0,81057458-03E8,
 Infinite Health\Teran,1=0,810F4270-03E8,
@@ -4370,13 +4370,13 @@ NumberOfGroups=0
 [I.S.S.2000 AU]
 NumberOfGroups=0
 
-[I.S.S.2000 US R1]
+[I.S.S.2000 USR1]
 NumberOfGroups=0
 
 [I.S.S.2000 US]
 NumberOfGroups=0
 
-[PERFECT STRIKER2 JP R1]
+[PERFECT STRIKER2 JPR1]
 NumberOfGroups=0
 
 [PERFECT STRIKER2 JP]
@@ -4466,7 +4466,7 @@ Freeze Timer,1=0,811C84C4-012C,
 Invincible from enemy attack (All Levels),1=0,8002FE64-0024,
 Press R For Supa Attack (All Levels),1=0,8102FE9C-2400,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [BASSMASTERS2000 US]
@@ -4672,7 +4672,7 @@ Multiplayer\Balltlelord Mode\Player 1\Infinite Secondary Weapons In Battlelord,1
 Multiplayer\Balltlelord Mode\Player 2\Infinite Secondary Weapons In Battlelord,1=0,802D9F31-00FF,802D9F33-00FF,802D9F35-00FF,802D9F37-00FF,802D9F39-00FF,802D9F3D-00FF,802D9F3F-00FF,802D9F41-00FF,802D9F43-00FF,802D9F45-00FF,802D9F47-00FF,802D9F49-00FF,
 In Campaign 3 Enemy Tanks May Join You,1=0,802D9AAC-0000,802DB3D4-0000,802DCCFC-0000,
 
-[Waialae Country Club EU R1]
+[Waialae Country Club EUR1]
 NumberOfGroups=5
 Max Power,1=0,80251391-FFFF,
 Max Technique,1=0,80251393-FFFF,
@@ -4688,7 +4688,7 @@ Max Putt,1=0,80251395-FFFF,
 Max Recover,1=0,80251397-FFFF,
 Always On First Shot,1=0,813013DA-0000,
 
-[Waialae Country Club US R1]
+[Waialae Country Club USR1]
 NumberOfGroups=5
 Max Power,1=0,8012A3D1-FFFF,
 Max Technique,1=0,8012A3D3-FFFF,
@@ -4721,7 +4721,7 @@ Always first position,1=0,801608D8-0001,
 Only race one lap,1=0,80161DF5-0001,
 Always Have 99 points,1=0,80161EC1-0063,
 
-[GT64 US B]
+[GT64 USB]
 NumberOfGroups=0
 
 [GT64 US]
@@ -4741,7 +4741,7 @@ Team on the left of score board has 0 goals,1=0,800375C7-0000,
 [FIFA-99 US]
 NumberOfGroups=0
 
-[CAL SPEED EU P]
+[CAL SPEED EUP]
 NumberOfGroups=4
 Always Place 1st,1=0,80152D61-0000,
 Have All\Tracks,1=0,8116A0EC-FFFF,
@@ -4769,12 +4769,12 @@ Extra Teams,1=0,80115A0C-0001,
 Get In Fights Constantly,1=0,800CF766-0020,
 Anger metre always full,1=0,800D5978-00FF,800D5666-00FF,
 
-[DOUBUTSU BANCHOU P]
+[DOUBUTSU BANCHOUP]
 NumberOfGroups=2
 Infinite 999 Hearts,1=0,80320AD5-0063,80320AD7-0009,
 Bite Stregnth,1=0,80320AE4-00FF,
 
-[G1STABLE JP R1]
+[G1STABLE JPR1]
 NumberOfGroups=0
 
 [G1STABLE JP]
@@ -4882,7 +4882,7 @@ Have All\Trick Attacks Done,1=0,81250AC6-FCFF,
 Hover Board,1=0,8109CED8-2400,8109CEF0-2400,8109E01C-1000,810A24CC-1000,
 Always First Place (Player 1),1=0,812679BC-2400,
 
-[PAWAPURO 2000 JP R1]
+[PAWAPURO 2000 JPR1]
 NumberOfGroups=0
 
 [PAWAPURO 2000 JP]
@@ -4966,7 +4966,7 @@ NumberOfGroups=2
 1 Lap to Race,1=0,800438B3-0009,D021FBAB-0000,8021FBAB-0008,D022359B-0000,8022359B-0008,
 Max Gear Ratios,1=0,810C9E90-7F1E,810C9E82-707F,
 
-[Perfect Dark EU D]
+[Perfect Dark EUD]
 NumberOfGroups=14
 Have All\Weapons\Player 1,1=0,80207870-0007,801EE870-0007,801CD950-0007,
 Infinite\Ammo\Player 1,1=0,80206FFF-00FF,801EDFFF-00FF,801D4FFF-00FF,8020685B-00FF,801ED85B-00FF,801D485B-00FF,
@@ -5012,7 +5012,7 @@ Infinite Health\Player 2,1=0,8120703C-3F80,811EE03C-3F80,811D503C-3F80,
 Infinite Shield\Player 2,1=0,811FE210-3F80,811E5210-3F80,811CC210-3F80,
 All levels Compleate,1=0,50003201-0000,800A2940-0001,50003201-0000,800A2972-0001,
 
-[Perfect Dark DBGNTSC US D]
+[Perfect Dark DBGNTSC USD]
 NumberOfGroups=14
 Have All\Weapons\Player 1,1=0,80207830-0007,801EE830-0007,801CD910-0007,
 Infinite\Ammo\Player 1,1=0,80206FBF-00FF,801EDFBF-00FF,801D4FBF-00FF,8020681B-00FF,801ED81B-00FF,801D481B-00FF,
@@ -5029,7 +5029,7 @@ Carrington Institute\Have\255 targets destroyed,1=0,810B1754-00FF,
 Have All\Challenges Complete on Solo Missions,1=0,5000041A-0000,8008A40D-0001,50001A1A-0000,8108A474-0101,
 Have All\Gold on Firing Range,1=0,810A679C-FFFF,810A679E-FFFF,810A67A0-FFFF,810A67A2-FFFF,810A67A4-FFFF,810A67A6-FFFF,
 
-[Perfect Dark US R1]
+[Perfect Dark USR1]
 NumberOfGroups=13
 Have All\Weapons\Player 1,1=0,80207F10-0007,801EEF10-0007,801D5F10-0007,
 Infinite Ammo\Player 1,1=0,8020769F-00FF,801EE69F-00FF,801D569F-00FF,80206EFB-00FF,801EDEFB-00FF,801D4EFB-00FF,
@@ -5215,7 +5215,7 @@ Have All\Difficulty Levels,1=0,80097A17-0003,
 Infinite Health Player 1 (All Levels & Modes),1=0,8100BE6C-2400,
 Max Points Aid,1=0,8111EF4E-03E7,
 
-[O.D.T EU P]
+[O.D.T EUP]
 NumberOfGroups=22
 Infinite Max\999 Lives,1=0,810C8CF8-03E8,
 Infinite Max\Health,1=0,800C8AD9-0066,
@@ -5240,7 +5240,7 @@ Have Infinite\99 Blue Power (1UP),1=0,800CEA2A-0063,
 Have Infinite\99 Gas,1=0,800CEA3E-0063,
 Have Infinite\99 Grenades,1=0,800CEA34-003F,
 
-[O.D.T US P]
+[O.D.T USP]
 NumberOfGroups=22
 Infinite Max\999 Lives,1=0,810C8B78-03E8,
 Infinite Max\Health,1=0,800C8959-0066,
@@ -5291,7 +5291,7 @@ Quick Chest Access,1=0,D1014FA4-0020,81122598-0100,
 Have All Guns In  Chest,1=0,50000E04-0100,810E59F4-05FF,
 Have All Main Items In Chest,1=0,810E5A2C-17FF,810E5A30-1EFF,810E5A34-1FFF,810E5A38-23FF,50000404-0100,810E5A3C-25FF,810E5A4C-2AFF,810E5A50-2BFF,50000304-0100,810E5A54-2EFF,50000F04-0100,810E5A60-32FF,810E5A9C-43FF,50000504-0100,810E5AA0-47FF,50000404-0100,810E5AB4-53FF,50000C04-0100,810E5AC4-58FF,
 
-[Resident Evil II US R1]
+[Resident Evil II USR1]
 NumberOfGroups=8
 Infinite\Health,1=0,810E1322-00C8,
 Have\Fine Condition Always,1=0,810E13E4-0000,
@@ -5330,7 +5330,7 @@ Single Player Stage Select,1=0,810E12DC-0001,
 [JUNI_CHAR UNI_CHAR1997 JP]
 NumberOfGroups=0
 
-[ROCKETROBOTONWHEELS EU B]
+[ROCKETROBOTONWHEELS EUB]
 NumberOfGroups=3
 Infinite & Max Health,1=0,8109FB82-000C,8109FB84-000A,
 Activate All In-Game Cheats,1=0,810A6846-F5FF,
@@ -5373,7 +5373,7 @@ NumberOfGroups=2
 Team 1 Scores 150 pts,1=0,800A6689-0096,
 Team 2 Scores 150 pts,1=0,800A668B-0096,
 
-[40 WINKS EU P]
+[40 WINKS EUP]
 NumberOfGroups=10
 Infinite\99 Moons,1=0,801D2A81-0063,
 Infinite\50 Health ZZZ's,1=0,811D2A84-0032,
@@ -5389,7 +5389,7 @@ Enable Cheat Menu,1=0,801D5355-0001,
 [40 WINKS US]
 NumberOfGroups=0
 
-[40 WINKS P]
+[40 WINKSP]
 NumberOfGroups=0
 
 [BOMBERMAN64 JP]
@@ -5461,7 +5461,7 @@ NumberOfGroups=1
 [MarioParty3 JP]
 NumberOfGroups=0
 
-[MarioParty3 US B]
+[MarioParty3 USB]
 NumberOfGroups=0
 
 [MarioParty3 US]
@@ -5627,7 +5627,7 @@ Rubbage Room Stage\Infinite Energy\Player 2,1=0,801FD653-00AA,
 Rubbage Room Stage\No Energy\Player 2,1=0,801FD653-0000,
 Rubbage Room Stage\Full Super Bar\Player 2,1=0,811FD65A-0200,
 
-[CLAYFIGHTER 63 US B]
+[CLAYFIGHTER 63 USB]
 NumberOfGroups=129
 Extra Characters and Secret Options,1=0,8019ED41-000F,
 Refuse Room, Grotto Gulch, Santa's Workship Stages\Can't be Stunned\Player 1,1=0,801EDCE3-0000,
@@ -5943,7 +5943,7 @@ Enable\All Levels\In Time Trial/Frag Fest mode,1=0,8110EB88-FFFF,8110EB8A-7FEB,8
 Enable\All Skins,1=0,8110EB58-0303,8110EB5A-0303,8110EB5C-0303,8110EB5E-0303,8110EB60-0303,8110EB62-0000,8110EB64-0200,
 Player 1\Infinite Time,1=0,811527F4-47AF,811527F6-C4B1,
 
-[Turok US R1]
+[Turok USR1]
 NumberOfGroups=13
 Player 1\Have All\Medals,1=0,810FCB4C-FFFF,810FCB4E-FFFF,
 Player 1\Have All\Mini Game Icons,1=0,800FCB17-0024,
@@ -6051,11 +6051,11 @@ Stop Timer From Counting Down (All Levels),1=0,8101D4E0-2400,
 NumberOfGroups=1
 Stop Timer From Counting Down (All Levels),1=0,8101D4FC-2400,
 
-[THE LEGEND OF ZELDA EU GC D]
+[ZELDA MASTER QUEST EUGCD]
 NumberOfGroups=0
 
-[THE LEGEND OF ZELDA EU GC]
-NumberOfGroups=38
+[ZELDA MASTER QUEST EUGC]
+NumberOfGroups=40
 Infinite\Rupees,1=0,81119D04-0001,
 Max\Double Defense Power,1=0,80118A07-0014,
 Use Any Item In Any House,1=0,81119B5A-0000,81119B5C-0000,
@@ -6094,11 +6094,11 @@ Epona\Max Carrots\Lon Lon Raunch,1=0,801F1A68-0005,801EE508-0005,
 Infinite\Timers\Escape From Gannons Tower,1=0,80119D0D-00B4,
 Press L\To Levitate,1=0,D011BB11-0020,811D93D0-40CB,
 Press L\For Infinite Hover Boots,1=0,D011BB11-0020,811D9BF2-000D,
-Subscreen Delay Fix,1=0,801D8F4B-0002,
-End Credits Fix,1=0,D109A8C4-0320,8109A8C4-0000,D109A8C6-F809,8109A8C6-0000,
+Subscreen Delay Fix,1=1,801D8F4B-0002,
+End Credits Fix,1=1,D109A8C4-0320,8109A8C4-0000,D109A8C6-F809,8109A8C6-0000,
 
-[THE LEGEND OF ZELDA US GC]
-NumberOfGroups=39
+[ZELDA MASTER QUEST USGC]
+NumberOfGroups=41
 Infinite\Rupees,1=0,8111C4F4-0001,
 Use Any Item In Any House,1=0,8111C34A-0000,8111C34C-0000,
 Have\All Equipment,1=0,8111B1C4-7777,
@@ -6138,11 +6138,11 @@ Max\Double Defense Power,1=0,8011B1F7-0014,
 Infinite\Timers\All Other Timers,1=0,8011C4F9-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D4A-0006,801EFD08-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C4FD-00B4,
-Subscreen Delay Fix,1=0,801DB74B-0002,
-End Credits Fix,1=0,D109A7F4-0320,8109A7F4-0000,D109A7F6-F809,8109A7F6-0000,
+Subscreen Delay Fix,1=1,801DB74B-0002,
+End Credits Fix,1=1,D109A7F4-0320,8109A7F4-0000,D109A7F6-F809,8109A7F6-0000,
 
-[THE LEGEND OF ZELDA JP GC]
-NumberOfGroups=40
+[ZELDA MASTER QUEST JPGC]
+NumberOfGroups=42
 Infinite\Rupees,1=0,8111C514-0001,
 Use Any Item In Any House,1=0,8111C36A-0000,8111C36C-0000,
 Have\All Equipment,1=0,8111B1E4-7777,
@@ -6183,8 +6183,8 @@ Max\Double Defense Power,1=0,8011B217-0014,
 Infinite\Timers\All Other Timers,1=0,8011C519-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D8A-0006,801EFD48-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C51D-00B4,
-Subscreen Delay Fix,1=0,801DB78B-0002,
-End Credits Fix,1=0,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
+Subscreen Delay Fix,1=1,801DB78B-0002,
+End Credits Fix,1=1,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
 
 [Eltail JP]
 NumberOfGroups=5
@@ -6350,9 +6350,8 @@ Infinite\Time,1=0,810802D4-4296,
 NumberOfGroups=0
 
 [AIUNI_CHAR3 JP]
-NumberOfGroups=0
-
-”freeze fix”,81068FCE-0000
+NumberOfGroups=1
+freeze fix,1=1,81068FCE-0000,
 
 [UNI_CHAR64 JP]
 NumberOfGroups=0
@@ -6370,7 +6369,7 @@ Player 2\Always Have\Fastest Car,1=0,80150656-000C,
 Player 1\Lights & Sirens For Police Car & School Bus,1=0,811505DA-0001,8114E42A-0001,
 Player 2\Lights & Sirens For Police Car & School Bus,1=0,811509F6-0001,8114E442-0001,
 
-[Cruis'n USA US R1]
+[Cruis'n USA USR1]
 NumberOfGroups=15
 Car Upgrades\'63 Muscle Car,1=0,8015053F-0005,
 Car Upgrades\La Bomba,1=0,80150543-0005,
@@ -6388,7 +6387,7 @@ Player 2\Always Have\Fastest Car,1=0,801505B6-0001,
 Player 1\Lights & Sirens For Police Car & School Bus P1,1=0,8115053A-0001,8114E38A-0001,
 Player 2\Lights & Sirens For Police Car & School Bus P2,1=0,811508D6-0001,8114E3A2-0001,
 
-[Cruis'n USA US R2]
+[Cruis'n USA USR2]
 NumberOfGroups=15
 Car Upgrades\'63 Muscle Car,1=0,8015056F-0005,
 Car Upgrades\La Bomba,1=0,80150573-0005,
@@ -6602,7 +6601,7 @@ Have\Max Wrenches (All Sleds),1=0,50000C01-0000,80083168-0064,50000201-0000,8008
 [PERFECT STRIKER JP]
 NumberOfGroups=0
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [BLUES BROTHERS 2000 EU]
@@ -6667,10 +6666,10 @@ Super Jump,1=0,D02AFA14-0080,801EE771-0013,
 Press L To Levitate,1=0,D01FC381-0020,8129143C-4040,
 Start with 65535 Score,1=0,81291292-FFFF,
 
-[whack 'n' roll B]
+[whack 'n' rollB]
 NumberOfGroups=0
 
-[Glover US P]
+[Glover USP]
 NumberOfGroups=0
 
 [Glover US]
@@ -6688,7 +6687,7 @@ Press L To Levitate,1=0,D02AE905-0020,81290334-4040,
 [100% Complete]\Save Slot 6,1=0,801EAAE3-0007,50000801-0000,801EAAD4-00FF,
 Start with 65535 Score,1=0,8129018A-FFFF,
 
-[whack 'n' roll B]
+[whack 'n' rollB]
 NumberOfGroups=0
 
 [RAZOR FREESTYLE US]
@@ -6703,7 +6702,7 @@ Have All Charcters & Levels Unlocked,1=0,50000740-0000,800CB951-0001,50000304-00
 NumberOfGroups=1
 Infinite Strikes,1=0,810A760A-0000,
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=3
 Infinite Max Health,1=0,8011249D-00A0,
 Infinite Max Shield,1=0,801124A3-00A0,
@@ -6767,26 +6766,26 @@ NumberOfGroups=0
 NumberOfGroups=1
 Press L + C-Down For Cheat Screen,1=0,D01101B3-0024,8103BFE0-0000,D01101B3-0024,8103BFE2-0000,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=1
 Infinite 9999 Life Force Gems,1=0,8168FEC8-270F,
 
-[TUROK3 GE B]
+[TUROK3 GEB]
 NumberOfGroups=1
 Infinite 9999 Life Force Gems,1=0,8168FCBC-270F,
 
-[turok GE B]
+[turok GEB]
 NumberOfGroups=1
 Infinite 9999 Life Force Gems,1=0,8168FC1C-270F,
 
-[turok B]
+[turokB]
 NumberOfGroups=0
 
 [Turok 3 EU]
 NumberOfGroups=1
 Infinite 9999 Life Force Gems,1=0,8168FB5C-270F,
 
-[turok3 GE B]
+[turok3 GEB]
 NumberOfGroups=0
 
 [Turok 3 US]
@@ -6871,7 +6870,7 @@ No Quad Damage,1=0,800ADB6B-0001,
 infinite Ammo For All Guns,1=0,800ADB65-0001,
 Infinite Attempts,1=0,800ADB66-0001,
 
-[NUCLEARSTRIKE64 GE B]
+[NUCLEARSTRIKE64 GEB]
 NumberOfGroups=0
 
 [NUCLEARSTRIKE64 GE]
@@ -6957,26 +6956,25 @@ Infinite\99 R Button Bombs,1=0,8024BD89-0063,
 Timer is 3:59:96 in Time Attack,1=0,8122962E-1C1F,
 
 [TOM AND JERRY EU]
-NumberOfGroups=7
-[Unlock All Characters],1=0,800E4933-00FF,
+NumberOfGroups=8
+[Unlock All Characters],1=1,800E4933-00FF,
 Open All Versus Arenas,1=0,800E4934-00FF,800E4935-00FF,
 Infinite Health,1=0,800E2BDD-00C8,
 One Hit To Kill\Player 1,1=0,800E2EB4-0080,
 One Hit To Kill\Player 2,1=0,800E2BDC-0080,
 Infinite time,1=0,800FF18E-00F0,
 No music,1=0,800B7718-0000,
-Unlock All Characters,1=0,800E4933-00FF,
+Unlock All Characters,1=1,800E4933-00FF,
 
 [TOM AND JERRY US]
 NumberOfGroups=7
-Unlock All Characters,1=0,810E44F2-00FF,
 Open All Versus Arenas,1=0,810E44F4-03FF,
 Infinite Health\Player 1,1=0,810E279C-42C8,
 One Hit To Kill\Player 1,1=0,810E2A74-3F80,
 One Hit To Kill\Player 2,1=0,810E2D4C-3F80,
 Infinite Health\Player 2,1=0,810E2A74-42C8,
 Infinite Time,1=0,810FED4C-42F0,
-Unlock All Characters,1=0,810E44F2-00FF,
+Unlock All Characters,1=1,810E44F2-00FF,
 
 [GOLDENEYE EU]
 NumberOfGroups=13
@@ -7065,7 +7063,7 @@ Have\All Members in your party,1=0,50000C08-0000,8010F46C-0001,
 No Star Points (0),1=0,8010F460-0000,
 
 [PAPER MARIO EU]
-NumberOfGroups=9
+NumberOfGroups=10
 Infinite\Max Coins,1=0,8110DD9C-03E7,
 Infinite\Max HP + FP,1=0,50000601-0000,8010DD91-0063,
 Have\All Star Spirits,1=0,8110E01E-0007,
@@ -7075,10 +7073,10 @@ Have\All Members in your party,1=0,50000C08-0000,8010DDAC-0001,
 No Star Points (0),1=0,8010DDA0-0000,
 Press L Button  For Moon Jump,1=0,D0071337-0020,8010DAF4-0043,
 Infinite\Star Power,1=0,8110E020-0707,
-Subscreen Delay Fix,1=0,81027F80-2400,
+Subscreen Delay Fix,1=1,81027F80-2400,
 
 [PAPER MARIO US]
-NumberOfGroups=8
+NumberOfGroups=9
 Infinite\Max Coins,1=0,8110F29C-03E7,
 Infinite\Max HP + FP,1=0,50000601-0000,8010F291-0063,
 Have\All Star Spirits,1=0,8010F51E-0007,
@@ -7087,18 +7085,17 @@ Max\Star Pieces,1=0,8010F29F-00A0,8010F5BD-00A0,
 Have\All Members in your party,1=0,50000C08-0000,8010F2AC-0001,
 No Star Points (0),1=0,8010F2A0-0000,
 Infinite\Star Power,1=0,8110F520-0707,
-Subscreen Delay Fix,1=0,81027B5A-0000,
+Subscreen Delay Fix,1=1,81027B5A-0000,
 
-[THE LEGEND OF ZELDA EU B GC]
+[THE LEGEND OF ZELDA EUBGC]
 NumberOfGroups=0
 
-[THE LEGEND OF ZELDA EU GC D]
-NumberOfGroups=0
+[THE LEGEND OF ZELDA EUGCD]
+NumberOfGroups=1
+Subscreen Delay Fix,1=1,801D860B-0002,
 
-Subscreen Delay Fix,1=0,801D860B-0002,
-
-[THE LEGEND OF ZELDA EU R1]
-NumberOfGroups=41
+[THE LEGEND OF ZELDA EUR1]
+NumberOfGroups=42
 Infinite\Rupees,1=0,811197DC-0001,
 Use Any Item In Any House,1=0,81119632-0000,81119634-0000,
 Have\All Equipment,1=0,811184AC-7777,
@@ -7140,10 +7137,10 @@ Beta\Specific things lean,1=0,80023454-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C6535-0010,81119776-0001,
 Press L\For infinite Hover Boots,1=0,D01C6535-0020,811D9332-000D,
 Press L\To Levitate,1=0,D01C6535-0020,811D8B20-40CB,
-Subscreen Delay Fix,1=0,801D864B-0002,
+Subscreen Delay Fix,1=1,801D864B-0002,
 
 [THE LEGEND OF ZELDA EU]
-NumberOfGroups=41
+NumberOfGroups=42
 Infinite\Rupees,1=0,8111979C-0001,
 Use Any Item In Any House,1=0,811195F2-0000,811195F4-0000,
 Have\All Equipment,1=0,8111846C-7777,
@@ -7185,10 +7182,10 @@ Beta\Specific things lean,1=0,80023414-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C64F5-0010,81119736-0001,
 Press L\For infinite Hover Boots,1=0,D01C64F5-0020,811D92F2-000D,
 Press L\To Levitate,1=0,D01C64F5-0020,811D8AE0-40CB,
-Subscreen Delay Fix,1=0,801D860B-0002,
+Subscreen Delay Fix,1=1,801D860B-0002,
 
-[THE LEGEND OF ZELDA EU GC]
-NumberOfGroups=41
+[THE LEGEND OF ZELDA EUGC]
+NumberOfGroups=43
 Infinite\Rupees,1=0,81119D24-0001,
 Use Any Item In Any House,1=0,81119B7A-0000,81119B7C-0000,
 Have\All Equipment,1=0,811189F4-7777,
@@ -7230,20 +7227,19 @@ Beta\Specific things lean,1=0,8002399C-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C6A7D-0010,81119CBE-0001,
 Press L\For infinite Hover Boots,1=0,D011BB37-0020,811D9C32-000D,
 Press L\To Levitate,1=0,D011BB37-0020,811D9410-40CB,
-Subscreen Delay Fix,1=0,801D8F8B-0002,
-End Credits Fix,1=0,D109A8E4-0320,8109A8E4-0000,D109A8E6-F809,8109A8E6-0000,
+Subscreen Delay Fix,1=1,801D8F8B-0002,
+End Credits Fix,1=1,D109A8E4-0320,8109A8E4-0000,D109A8E6-F809,8109A8E6-0000,
 
-[THE LEGEND OF ZELDA US B]
+[THE LEGEND OF ZELDA USB]
 NumberOfGroups=0
 
-[THE LEGEND OF ZELDA US GC]
-NumberOfGroups=0
+[THE LEGEND OF ZELDA USGC]
+NumberOfGroups=2
+Subscreen Delay Fix,1=1,801DB78B-0002,
+End Credits Fix,1=1,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
 
-Subscreen Delay Fix,1=0,801DB78B-0002,
-End Credits Fix,1=0,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
-
-[THE LEGEND OF ZELDA US R1]
-NumberOfGroups=41
+[THE LEGEND OF ZELDA USR1]
+NumberOfGroups=43
 Infinite\Rupees,1=0,8111BB5C-0001,
 Use Any Item In Any House,1=0,8111B9B2-0000,8111B9B4-0000,
 Have\All Equipment,1=0,8111A82C-7777,
@@ -7285,11 +7281,11 @@ Beta\Specific things lean,1=0,800257D4-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C8675-0010,8111BAF6-0001,
 Press L\For infinite Hover Boots,1=0,D01C8675-0020,811DB472-000D,
 Press L\To Levitate,1=0,D01C8675-0020,811DAC50-40CB,
-Subscreen Delay Fix,1=0,D109C5BC-0C02,8109C5BC-2400,
-Equipment Screen Delay Fix,1=0,D138EA6C-0C0E,8138EA6C-2400,
+Subscreen Delay Fix,1=1,D109C5BC-0C02,8109C5BC-2400,
+Equipment Screen Delay Fix,1=1,D138EA6C-0C0E,8138EA6C-2400,
 
-[THE LEGEND OF ZELDA US R2]
-NumberOfGroups=41
+[THE LEGEND OF ZELDA USR2]
+NumberOfGroups=43
 Infinite\Rupees,1=0,8111C04C-0001,
 Use Any Item In Any House,1=0,8111BEA2-0000,8111BEA4-0000,
 Have\All Equipment,1=0,8111AD1C-7777,
@@ -7331,11 +7327,11 @@ Beta\Specific things lean,1=0,80025CC4-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C8B65-0010,8111BFE6-0001,
 Press L\For infinite Hover Boots,1=0,D01C8D75-0020,811DBB72-000D,
 Press L\ To Levitate,1=0,D01C8D75-0020,811DB350-40CB,
-Subscreen Delay Fix,1=0,D109CC9C-0C02,8109CC9C-2400,
-Equipment Screen Delay Fix,1=0,D138F07C-0C0E,8138F07C-2400,
+Subscreen Delay Fix,1=1,D109CC9C-0C02,8109CC9C-2400,
+Equipment Screen Delay Fix,1=1,D138F07C-0C0E,8138F07C-2400,
 
 [THE LEGEND OF ZELDA US]
-NumberOfGroups=41
+NumberOfGroups=43
 Infinite\Rupees,1=0,8111B99C-0001,
 Use Any Item In Any House,1=0,8111B7F2-0000,8111B7F4-0000,
 Have\All Equipment,1=0,8111A66C-7777,
@@ -7377,11 +7373,11 @@ Epona\Max Carrots\Lon Lon Raunch,1=0,801F2208-0005,801EEC88-0005,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011B9A5-00B4,
 Beta\Specific things lean,1=0,80025614-0001,
 Beta\Appear in Strange Places (Hold R),1=0,D01C84B5-0010,8111B936-0001,
-Subscreen Delay Fix,1=0,D109C5AC-0C02,8109C5AC-2400,
-Equipment Screen Delay Fix,1=0,D138E8CC-0C0E,8138E8CC-2400,
+Subscreen Delay Fix,1=1,D109C5AC-0C02,8109C5AC-2400,
+Equipment Screen Delay Fix,1=1,D138E8CC-0C0E,8138E8CC-2400,
 
-[THE LEGEND OF ZELDA JP GC]
-NumberOfGroups=40
+[THE LEGEND OF ZELDA JPGC]
+NumberOfGroups=42
 Infinite\Rupees,1=0,8111C514-0001,
 Use Any Item In Any House,1=0,8111C36A-0000,8111C36C-0000,
 Have\All Equipment,1=0,8111B1E4-7777,
@@ -7422,11 +7418,11 @@ Max\Double Defense Power,1=0,8011B217-0014,
 Infinite\Timers\All other Timers,1=0,8011C519-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D8A-0006,801F32A8-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C51D-00B4,
-Subscreen Delay Fix,1=0,801DB78B-0002,
-End Credits Fix,1=0,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
+Subscreen Delay Fix,1=1,801DB78B-0002,
+End Credits Fix,1=1,D109A814-0320,8109A814-0000,D109A816-F809,8109A816-0000,
 
-[THE LEGEND OF ZELDA JP GC]
-NumberOfGroups=40
+[THE LEGEND OF ZELDA JPGC]
+NumberOfGroups=42
 Infinite\Rupees,1=0,8111C534-0001,
 Use Any Item In Any House,1=0,8111C38A-0000,8111C38C-0000,
 Have\All Equipment,1=0,8111B204-7777,
@@ -7467,8 +7463,8 @@ Max\Double Defense Power,1=0,8011B237-0014,
 Infinite\Timers\All other Timers,1=0,8011C539-0032,
 Epona\Max Carrots\Lon Lon Raunch,1=0,801D9D8A-0006,801EFD48-0001,
 Infinite\Timers\Escape From Gannons Tower,1=0,8011C53D-00B4,
-Subscreen Delay Fix,1=0,801DB78B-0002,
-End Credits Fix,1=0,D109A834-0320,8109A834-0000,D109A836-F809,8109A836-0000,
+Subscreen Delay Fix,1=1,801DB78B-0002,
+End Credits Fix,1=1,D109A834-0320,8109A834-0000,D109A836-F809,8109A836-0000,
 
 [EVANGELION JP]
 NumberOfGroups=4
@@ -7494,10 +7490,10 @@ All Gaps,1=0,50000A0C-0000,810E9D84-FFFF,50000A0C-0000,810E9D86-FFFF,50000A0C-00
 Max Cash For All Custom Players,1=0,500004E4-0000,810E948C-000A,500004E4-0000,810E948E-2B1F,500004E4-0000,810E9490-000A,500004E4-0000,810E9492-2B1F,
 Levels Goals 100% All Custom Players,1=0,50000802-0000,810E9494-FFFF,50000802-0000,810E9578-FFFF,50000802-0000,810E965C-FFFF,50000802-0000,810E9740-FFFF,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [THPS2 US]
@@ -7571,7 +7567,7 @@ Super Speed,1=0,8122AEB8-4800,
 Always 1st,1=0,8022AD06-0001,
 
 [DONKEY KONG 64 EU]
-NumberOfGroups=64
+NumberOfGroups=65
 Donkey Kong\Infinite Ammo,1=0,807FCB85-0096,
 Infinite\Health,1=0,817FCB8C-041F,
 Donkey Kong\Infinite Musical Instrument,1=0,817FC894-0103,817FC898-00FF,
@@ -7639,8 +7635,7 @@ Free Pass (Access All Areas),1=0,8066D167-0001,8066D262-0001,
 Bone displacement fix,1=0,806128E2-0000,
 
 [DONKEY KONG 64 JP]
-NumberOfGroups=0
-
+NumberOfGroups=1
 Bone displacement fix,1=0,806170A2-0000,
 
 [D K DISPLAY US]
@@ -7649,7 +7644,7 @@ Infinite Max DK Tokens,1=0,803A8FD5-0063,
 Infinite Max Health,1=0,807B6760-0008,807B675F-0003,
 
 [DONKEY KONG 64 US]
-NumberOfGroups=64
+NumberOfGroups=65
 Donkey Kong\Infinite Ammo,1=0,807FCC45-0096,
 Infinite\Health,1=0,817FCC4C-041F,
 Donkey Kong\Infinite Musical Instrument,1=0,817FC954-0103,817FC958-00FF,
@@ -7766,7 +7761,7 @@ Max Gold Mario Badges Player 1,1=0,800C545B-0063,
 Zero Strokes Taken,1=0,801B71F3-0000,
 No Wind,1=0,800BA9F1-0000,800BA9F3-0000,
 
-[MarioGolf64 JP R1]
+[MarioGolf64 JPR1]
 NumberOfGroups=0
 
 [MarioGolf64 JP]
@@ -7824,30 +7819,28 @@ Have All Artifacts,1=0,800C56BF-0063,800C56C3-0063,800C56C7-0063,
 [NBA Courtside 2 US]
 NumberOfGroups=0
 
-[DINO PLANET US P]
+[DINO PLANET USP]
 NumberOfGroups=0
 
-[Frogger2 US P]
+[Frogger2 USP]
 NumberOfGroups=3
 Have 99 Bonus,1=0,8118EC38-3939,
 Infinite 99 Lives,1=0,80283069-0063,
 Have 150 Balls collected,1=0,8028306B-0096,
 
-[Frogger2 US P]
+[Frogger2 USP]
 NumberOfGroups=3
 Freeze Timer,1=0,80163ABF-000A,
 Infinite 99 Lives,1=0,80163AC7-0063,
 Infinite Lives (Retro Frogger),1=0,8025AC2F-0005,
 
-[EMPTY B]
-NumberOfGroups=0
-
-”Save fix”,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001
+[EMPTYB]
+NumberOfGroups=1
+Save fix,1=1,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001,
 
 [DERBYSTALLION 64 JP]
-NumberOfGroups=0
-
-”Save fix”,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001
+NumberOfGroups=1
+Save fix,1=1,D10C21A2-3021,810C21A0-2406,D10C21A2-3021,810C21A2-0001,
 
 [VIRTUALCHESS EU]
 NumberOfGroups=0
@@ -7918,7 +7911,7 @@ Infinite Dinars,1=0,800B6663-00E8,800B6662-00E8,
 Infinite Magic,1=0,810B6BEA-0063,810B6BD2-0063,810B6C02-0063,810B6C1A-0063,
 Press L to Levitate,1=0,D017D8F5-0020,810CFFB4-44CB,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=4
 Infinite Health,1=0,810CFA7E-03E7,810CFA82-03E7,
 Infinite Dinars,1=0,800B6183-00E8,800B6182-00E8,
@@ -7952,7 +7945,7 @@ Scoreboard\Max games bottom,1=0,8011698F-0009,
 [LET'S SMASH JP]
 NumberOfGroups=0
 
-[Diddy Kong Racing EU R1]
+[Diddy Kong Racing EUR1]
 NumberOfGroups=9
 Enable All Cheats,1=0,810E03AC-FFFF,810E03AE-FFFF ,
 Have All\Trophies,1=0,8020865E-0007,8020865F-00FF,
@@ -7991,7 +7984,7 @@ No Bad Weather,1=0,800E2CF1-0000,
 [Diddy Kong Racing JP]
 NumberOfGroups=0
 
-[Diddy Kong Racing US R1]
+[Diddy Kong Racing USR1]
 NumberOfGroups=9
 Enable All Cheats,1=0,810E031C-FFFF,810E031E-FFFF,
 Have All\Trophies,1=0,811FC9DE-FFFF,
@@ -8073,10 +8066,10 @@ NumberOfGroups=0
 [Tonic Trouble EU]
 NumberOfGroups=0
 
-[Tonic Trouble US R1]
+[Tonic Trouble USR1]
 NumberOfGroups=0
 
-[blitz2k US R1]
+[blitz2k USR1]
 NumberOfGroups=0
 
 [blitz2k US]
@@ -8171,7 +8164,7 @@ Have\Rune Stones,1=0,8104EFC6-1FFF,
 Infinite\Item On Pickup,1=0,50010100-0000,810C5BF6-FFFF,
 Infinite\Keys On Pickup,1=0,800C5C97-0006,
 
-[KIWAME 64 JP R1]
+[KIWAME 64 JPR1]
 NumberOfGroups=0
 
 [KIWAME 64 JP]
@@ -8187,7 +8180,7 @@ Infinite\Nitro Always On,1=0,810BA52C-0010,
 [Top Gear Hyper Bike JP]
 NumberOfGroups=0
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [Top Gear Hyper Bike US]
@@ -8238,7 +8231,7 @@ Player 2\Infinite Run,1=0,81169B88-0030,
 Player 1\Max Aggressor,1=0,D02B5285-0020,811698D4-5100,D02B5285-0020,811698DC-5100,
 Player 2\Max Aggressor,1=0,D02B528D-0020,811698D6-5100,D02B528D-0020,811698DE-5100,
 
-[MortalKombatTrilogy US R1]
+[MortalKombatTrilogy USR1]
 NumberOfGroups=8
 Player 1\Aggressor Energy Bar,1=0,801698E1-0030,
 Player 2\Aggressor Energy Bar,1=0,801698E3-0030,
@@ -8249,7 +8242,7 @@ Player 2\Infinite Run,1=0,81169B28-0030,
 Player 1\Max Aggressor,1=0,D02B5225-0020,81169874-5100,D02B5225-0020,8116987C-5100,
 Player 2\Max Aggressor,1=0,D02B522D-0020,81169876-5100,D02B522D-0020,8116987E-5100,
 
-[MortalKombatTrilogy US R2]
+[MortalKombatTrilogy USR2]
 NumberOfGroups=8
 Player 1\Aggressor Energy Bar,1=0,80169A21-0030,
 Player 2\Aggressor Energy Bar,1=0,80169A23-0030,
@@ -8271,7 +8264,7 @@ Player 2\Infinite Run,1=0,81169B28-0030,
 Player 1\Max Aggressor,1=0,D02B5225-0020,81169874-5100,D02B5225-0020,8116987C-5100,
 Player 2\Max Aggressor,1=0,D02B522D-0020,81169876-5100,D02B522D-0020,8116987E-5100,
 
-[PAWAPURO 2001B JP R1]
+[PAWAPURO 2001B JPR1]
 NumberOfGroups=0
 
 [PAWAPURO 2001B JP]
@@ -8312,7 +8305,7 @@ Infinite Options\X-Ray Vision,1=0,8122CDE0-42C8,
 For More Time Press D-pad up ,1=0,D00EA380-0008,8115F0D2-1724,D00EA380-0008,8115F0DA-003C,
 Level Select,1=0,D00EA380-0020,8117A378-0013,D00EA380-0020,8117A388-000F,81144727-0063,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=6
 Infinite Health,1=0,812128D0-42C8,812128D2-0000,
 Infinite Heat Vision,1=0,812128E0-42C8,812128E2-0000,
@@ -8329,13 +8322,13 @@ Have\Max Gold,1=0,50000401-0000,80277AA5-00FF,
 Have\Max Total XP,1=0,50000401-0000,8027931D-00FF,
 Have\Max Total XP Remaning to Start,1=0,50000401-0000,80279321-00FF,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
-[AIDYN_CHRONICLES US R1]
+[AIDYN_CHRONICLES USR1]
 NumberOfGroups=5
 Infinite\Max Health,1=0,80278B98-001E,
 Infinite\99 Health Potions,1=0,802785CB-0063,
@@ -8357,7 +8350,7 @@ NumberOfGroups=0
 [ECW Hardcore Revolut GE]
 NumberOfGroups=0
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [ECW Hardcore Revolut US]
@@ -8546,7 +8539,7 @@ Have All\Tracks,1=0,81082B1C-BFFE,
 Have All\Boards,1=0,81082B24-0003,81082B26-FFFF,
 [Audio Fix],1=0,81051840-AD99,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [I.S.S.98 EU]
@@ -8556,19 +8549,19 @@ Infinite player creation points,1=0,D03E0CF2-0001,803E0CF2-0063,
 [I.S.S.98 US]
 NumberOfGroups=0
 
-[J.WORLD CUP 98 JP R1]
+[J.WORLD CUP 98 JPR1]
 NumberOfGroups=0
 
-[J.WORLD CUP 98 JP R2]
+[J.WORLD CUP 98 JPR2]
 NumberOfGroups=0
 
 [J.WORLD CUP 98 JP]
 NumberOfGroups=0
 
-[PAWAFURU PUROYAKYU5 JP R1]
+[PAWAFURU PUROYAKYU5 JPR1]
 NumberOfGroups=0
 
-[PAWAFURU PUROYAKYU5 JP R2]
+[PAWAFURU PUROYAKYU5 JPR2]
 NumberOfGroups=0
 
 [PAWAFURU PUROYAKYU5 JP]
@@ -8731,7 +8724,7 @@ Tennis CPU Can't Score,1=0,801D7B4B-0000,
 Infinite\Atoms,1=0,80159667-00C8,
 Infinite\Quarks,1=0,80159663-00C8,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=0
 
 [LT DUCK DODGERS US]
@@ -8771,7 +8764,7 @@ All Help Notes Available For Player 1,1=0,50000602-0000,810F409C-FFFF,
 Side Invincible\Player 1,1=0,811FC00C-447A,
 Side Invincible\Player 2,1=0,811FC034-447A,
 
-[rogue squadron EU R1]
+[rogue squadron EUR1]
 NumberOfGroups=11
 Infinite\Lives,1=0,80125050-0009,
 Infinite\Shields,1=0,8112C3BC-4316,
@@ -8799,7 +8792,7 @@ Access All Levels & Ships,1=0,80130B2D-007E,
 Replace V-Wing with 69 Buick Electra,1=0,81130B3A-000E,
 Play AT-ST Level,1=0,81130B38-1250,
 
-[rogue squadron US R1]
+[rogue squadron USR1]
 NumberOfGroups=0
 
 [Rogue Squadron US]
@@ -8999,7 +8992,7 @@ Max Sponsor Credits,1=0,803A6702-0010,803A6704-0001,
 Infinite Cash,1=0,803A418E-4000,
 Freeze Timer,1=0,80031F9F-0000,
 
-[EMPTY B]
+[EMPTYB]
 NumberOfGroups=1
 Infinite Time & Always Place 1st,1=0,800302A3-0001,80030297-0001,
 
@@ -9162,7 +9155,7 @@ Infinite Time To Choose Play,1=0,81081448-2800,
 Max Acc,1=0,8007526D-0064,
 Max Cat,1=0,8007527B-0063,
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=0
 
 [JET FORCE GEMINI EU]
@@ -9240,10 +9233,10 @@ NumberOfGroups=0
 [MADDEN NFL 99 EU]
 NumberOfGroups=0
 
-[MADDEN NFL 99 US B]
+[MADDEN NFL 99 USB]
 NumberOfGroups=0
 
-[MADDEN NFL 99 US R1]
+[MADDEN NFL 99 USR1]
 NumberOfGroups=0
 
 [MADDEN NFL 99 US]
@@ -9468,7 +9461,7 @@ Infinite\Ammo All Weapons,1=0,50000404-0000,81063B52-013C,
 Have All\Keys,1=0,50000504-0000,81063AFE-FFFF,
 Enable Cheat Menu,1=0,8005B043-0001,
 
-[Doom64 US R1]
+[Doom64 USR1]
 NumberOfGroups=20
 Always Have\Gun,1=0,80063373-0001,
 Always Have\Shotgun,1=0,80063377-0001,
@@ -9546,7 +9539,7 @@ Have\Exp Points,1=0,80389C4D-0063,
 Max Power Up,1=0,80389CF1-0002,
 Never Get Poisoned,1=0,81389C8C-0000,
 
-[CASTLEVANIA US R1]
+[CASTLEVANIA USR1]
 NumberOfGroups=12
 Infinite\Health,1=0,81389C3E-0064,
 Infinite\Throwing Weapon,1=0,81389C48-0064,
@@ -9561,7 +9554,7 @@ Have Exp Points,1=0,80389C49-0063,
 Max Power Up,1=0,80389CED-0002,
 Never Get Poisoned,1=0,81389C88-0000,
 
-[CASTLEVANIA US R2]
+[CASTLEVANIA USR2]
 NumberOfGroups=12
 Infinite\Health,1=0,81389C3E-0064,
 Infinite\Throwing Weapon,1=0,81389C48-0064,
@@ -9615,7 +9608,7 @@ Multi and 1 Player\Max Crash Helmets\Player 1,1=0,80103EB3-0064,
 Multi and 1 Player\Infinite Turbos\Player 2,1=0,811041AE-03E7,
 Multi and 1 Player\Max Crash Helmets\Player 2,1=0,801041A7-0064,
 
-[POKEMON STADIUM EU R1]
+[POKEMON STADIUM EUR1]
 NumberOfGroups=0
 
 [POKEMON STADIUM EU]
@@ -9673,7 +9666,7 @@ NumberOfGroups=0
 [POKEMON STADIUM SP]
 NumberOfGroups=0
 
-[POKEMON STADIUM US R1]
+[POKEMON STADIUM USR1]
 NumberOfGroups=8
 Pokemon\Max HP\Player 1,1=0,810AE586-03E7,810AE5DA-03E7,810AE62E-03E7,
 Pokemon\Max HP\Player 2,1=0,810AE7A2-03E7,810AE7F6-03E7,810AE84A-03E7,
@@ -9684,7 +9677,7 @@ Inf HP\In Battle All Pokemon\Player 1,1=0,81285A18-03E7,
 Inf HP\In Battle All Pokemon\Player 2,1=0,81286438-03E7,
 Ultimate Code,1=0,81171F3C-FF01,81171F3E-FF01,81171F40-FF01,81171F42-FF01,81171F44-FF01,
 
-[POKEMON STADIUM US R2]
+[POKEMON STADIUM USR2]
 NumberOfGroups=8
 Pokemon\Max HP\Player 1,1=0,810AE586-03E7,810AE5DA-03E7,810AE62E-03E7,
 Pokemon\Max HP\Player 2,1=0,810AE7A2-03E7,810AE7F6-03E7,810AE84A-03E7,
@@ -9727,10 +9720,10 @@ Mini Game Island\Press GS For 99 Lives,1=0,880F37BB-0063,
 Mini Game Island\99 Coins,1=0,800F37C4-0063,
 Mini Game Island\Always Clear Level,1=0,800F32BB-0063,
 
-[Syd2k GBR P]
+[Syd2k GBRP]
 NumberOfGroups=0
 
-[Syd2k USA P]
+[Syd2k USAP]
 NumberOfGroups=0
 
 [UNI_CHAR JP]
@@ -9811,7 +9804,7 @@ Grand Prix Mode\All Cars Have\Perfect Stats,1=0,50008002-0000,8102F314-05DC,
 [TOUKON ROAD2 JP]
 NumberOfGroups=0
 
-[UNI_CHAR2 JP R1]
+[UNI_CHAR2 JPR1]
 NumberOfGroups=18
 Max Money,1=0,811FDD2C-000F,811FDD2E-423F,
 Infinite\Watering Can Uses,1=0,801702FD-0004,
@@ -9832,7 +9825,7 @@ Have\All Pics,1=0,8118978A-FFFF,
 Have\Win Dog Races,1=0,80188DE0 ,
 Have\Max Shipped In Bin!,1=0,80237ABA-FFFF,
 
-[UNI_CHAR2 JP R2]
+[UNI_CHAR2 JPR2]
 NumberOfGroups=18
 Max Money,1=0,811FDD2C-000F,811FDD2E-423F,
 Infinite\Watering Can Uses,1=0,801702FD-0004,
@@ -9911,7 +9904,7 @@ Access The Rock Alcatraz bonus level,1=0,D00F4174-0002,80100120-0006,
 All\Keys & Cars,1=0,50000E16-0000,810CAD52-FFFF,
 All\Keys & Cars Circuits,1=0,8105696E-FFFF,8105699A-FFFF,50000404-0000,81056910-FFFF,
 
-[S.F. RUSH US R1]
+[S.F. RUSH USR1]
 NumberOfGroups=9
 Activate\Stop Timer,1=0,800F4090-0001,
 Activate\Auto Abort Disable,1=0,800F4078-0001,
@@ -9953,7 +9946,7 @@ Enable In-Game Cheat Menu & Cheats,1=0,8009C4C7-0001,8109C4CA-FFFF,
 Unlock All Tracks & Characters,1=0,801170D8-00FF,801170D9-00FF,801170DA-00FF,801170DB-00FF,811170D8-FFFF,801170E2-007D,811170E4-FFFF,
 Have All Tracks Completed,1=0,811170DA-FFFF,811170DC-3FFF,811170DE-3FFF,811170E0-3FFF,811170E2-00FF,
 
-[STAR WARS EP1 RACER US R1]
+[STAR WARS EP1 RACER USR1]
 NumberOfGroups=0
 
 [STAR WARS EP1 RACER US]
@@ -10061,10 +10054,10 @@ Normal Weapon Select,1=0,801356F9-0000,
 [VIOLENCEKILLER JP]
 NumberOfGroups=0
 
-[ZELDA MAJORA'S MASK EU R1 D]
+[ZELDA MAJORA'S MASK EUR1D]
 NumberOfGroups=0
 
-[ZELDA MAJORA'S MASK EU R1]
+[ZELDA MAJORA'S MASK EUR1]
 NumberOfGroups=24
 Infinite\Rupees,1=0,811E6F2A-03E7,
 Infinite\Health,1=0,811E6F26-03E7,
@@ -10118,7 +10111,7 @@ Have\Hookshot,1=0,801E6BCF-000F,
 All Equipment Upgrades,1=0,801E6BBD-0023,811E6C0A-201B,801E6B9C-004F,
 Press L To Levitate,1=0,D03DDFDB-0020,813F72B8-40CB,
 
-[ZELDA MAJORA'S MASK EU GC]
+[ZELDA MAJORA'S MASK EUGC]
 NumberOfGroups=24
 Infinite\Rupees,1=0,811E54BA-03E7,
 Infinite\Health,1=0,811E54B6-03E7,
@@ -10148,7 +10141,7 @@ Press L To Levitate,1=0,D0378ECB-0020,813921A8-40CB,
 [MAJORA'S MASK US]
 NumberOfGroups=0
 
-[ZELDA MAJORA'S MASK US GC]
+[ZELDA MAJORA'S MASK USGC]
 NumberOfGroups=29
 Infinite\Health,1=0,811ED866-0140,
 Have\All Quest Status Items,1=0,801ED8ED-0005,811ED8EE-F7CF,
@@ -10212,7 +10205,7 @@ Fight Demo Majora's Mask,1=0,8016A718-0020,
 Use C-Buttons Anywhere,1=0,811F3588-0000,811F358A-0000,
 All Equipment Upgrades,1=0,801EF6DD-0023,811EF72A-201B,801EF6BC-004F,
 
-[ZELDA MAJORA'S MASK JP GC]
+[ZELDA MAJORA'S MASK JPGC]
 NumberOfGroups=23
 Infinite\Rupees,1=0,811ED85A-03E7,
 Infinite\Health,1=0,811ED856-03E7,
@@ -10238,7 +10231,7 @@ Have\Lens of Truth,1=0,801ED89E-000E,
 Have\Hookshot,1=0,801ED89F-000F,
 All Equipment Upgrades,1=0,801ED88D-0023,811ED8DA-201B,801ED86C-004F,
 
-[THE MASK OF MUJURA JP R1]
+[THE MASK OF MUJURA JPR1]
 NumberOfGroups=29
 Have All\Quest Status Items,1=0,801EF7CD-0005,811EF7CE-F7CF,
 Infinite\Rupees,1=0,811EF74A-03E7,
@@ -10486,7 +10479,7 @@ Invincibility,1=0,800DEEC3-0001,
 Time Always 00:00,1=0,801A19C6-0000,
 Enable Debug Menu,1=0,800DF990-0001,
 
-[CRUIS'N WORLD EU R1]
+[CRUIS'N WORLD EUR1]
 NumberOfGroups=21
 Infinite Time,1=0,813D0D3C-4296,
 Access\Florida & Moon Tracks,1=0,813BF3C4-0101,
@@ -10790,11 +10783,11 @@ Max Challenge Points,1=0,8118F370-000F,
 Extra Jump Power,1=0,810E2220-3F92,
 Freeze Timer,1=0,810E2230-4018,
 
-[Shadow of the Empire US B]
+[Shadow of the Empire USB]
 NumberOfGroups=1
 Access ej is a Wampa,1=0,8118B088-2065,8118B08A-6A20,8118B08C-6973,8118B08E-2061,8118B090-2057,8118B092-616D,8118B094-7061,
 
-[Shadow of the Empire US R1]
+[Shadow of the Empire USR1]
 NumberOfGroups=18
 All Levels\Infinite\Lives,1=0,800E05CB-0064,
 All Levels\Infinite\Missiles,1=0,800E1265-00FF,
@@ -10815,7 +10808,7 @@ All Levels\See Through\Some Walls,1=0,800BC625-FFFF,
 All Levels\See Through\Everything Except Specific Things,1=0,800BC665-FFFF,
 Press GS For Pink Cheat Debug Screen,1=0,890D01BF-0001,
 
-[Shadow of the Empire US R2]
+[Shadow of the Empire USR2]
 NumberOfGroups=18
 All Levels\Infinite\Lives,1=0,800E05CB-0064,
 All Levels\Infinite\Missiles,1=0,800E1265-00FF,
@@ -10836,7 +10829,7 @@ All Levels\See Through\Some Walls,1=0,800BC625-FFFF,
 All Levels\See Through\Everything Except Specific Things,1=0,800BC665-FFFF,
 Press F9 For Pink Cheat Debug Screen,1=0,890D098B-0001,
 
-[Shadow of the Empire US R3]
+[Shadow of the Empire USR3]
 NumberOfGroups=0
 
 [Shadow of the Empire US]
@@ -10933,7 +10926,7 @@ Max Total Score,1=0,81092E42-FFFF,
 [Madden NFL 2002 US]
 NumberOfGroups=0
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=6
 [Player 1]\Infinite\Turbo,1=0,80195CF3-00FF,
 [Player 1]\Infinite\Lives,1=0,800827BB-0006,
@@ -10942,7 +10935,7 @@ Press GS Button For\All Grand Prix Levels Unlocked (All Cars),1=0,50000902-0000,
 Press GS Button For\All Gold Medals (All Cars),1=0,50000902-0000,89082770-FFFF,
 [Player 1]\Infinite Max Overall Points,1=0,80083D49-009D,
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=0
 
 [Asteroids Hyper 64 US]
@@ -10991,94 +10984,94 @@ Always Get a Strike (Player 1),1=0,8112E814-0106,50000802-001E,810DF630-001E,810
 Unlock Everything,1=0,8009D09F-00FF,
 
 [POKEMON SNAP AU]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C2CD2-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80382CB7-0000,
 Have\Apples Bombs and Flute,1=0,803AE51F-0004,
 Press L To Stop (All Levels,1=0,D00488A1-0020,8000AF58-0024,D00488A0-0010,8000AF58-0092,
 Infinite Film,1=0,800ACBA3-0000,
-Pass 1st Level and Controller Fix,1=0,D1382D1C-802C,80382D0F-0000,
-Make Picture selectable,1=0,D11E3C44-2881,811E3C44-2001,D11E3C46-0098,811E3C46-0001,
+Pass 1st Level and Controller Fix,1=1,D1382D1C-802C,80382D0F-0000,
+Make Picture selectable,1=1,D11E3C44-2881,811E3C44-2001,D11E3C46-0098,811E3C46-0001,
 
 [POKEMON SNAP EU]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C2712-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE02F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=0,D11E3824-2881,811E3824-2001,D11E3826-0098,811E3826-0001,
+Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=1,D11E3824-2881,811E3824-2001,D11E3826-0098,811E3826-0001,
 
 [POKEMON SNAP FR]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C2552-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE03F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=0,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
+Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=1,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
 
 [POKEMON SNAP GE]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C24D2-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE02F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=0,D1381BDC-802C,80381BCF-0000,
-Make Picture selectable,1=0,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
+Pass 1st Level and Controller Fix,1=1,D1381BDC-802C,80381BCF-0000,
+Make Picture selectable,1=1,D11E3744-2881,811E3744-2001,D11E3746-0098,811E3746-0001,
 
 [POKEMON SNAP IT]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C2712-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE03F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=0,D11E3994-2881,811E3994-2001,D11E3996-0098,811E3996-0001,
+Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=1,D11E3994-2881,811E3994-2001,D11E3996-0098,811E3996-0001,
 
 [POKEMON SNAP JP]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C18E2-0006,
 Have\Rapid Fire Apples and Bombs,1=0,8036D1C7-0000,
 Have\Apples Bombs and Flute,1=0,803A7DAF-0004,
 Press L To Stop (All Levels,1=0,D00484B1-0020,8000AB68-0024,D00484B0-0010,8000AB68-0092,
 Infinite Film,1=0,800ABBF3-0000,
-Pass 1st Level and Controller Fix,1=0,D136D22C-802A,8036D21F-0000,
-Make Picture selectable,1=0,D11E1EC4-2881,811E1EC4-2001,D11E1EC6-0098,811E1EC6-0001,
+Pass 1st Level and Controller Fix,1=1,D136D22C-802A,8036D21F-0000,
+Make Picture selectable,1=1,D11E1EC4-2881,811E1EC4-2001,D11E1EC6-0098,811E1EC6-0001,
 
 [POKEMON SNAP SP]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C2712-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80381B97-0000,
 Have\Apples Bombs and Flute,1=0,803AE03F-0004,
 Press L To Stop (All Levels,1=0,D00486E1-0020,8000AD98-0024,D00486E0-0010,8000AD98-0092,
 Infinite Film,1=0,800ACA03-0000,
-Pass 1st Level and Controller Fix,1=0,D1381BFC-802C,80381BEF-0000,
-Make Picture selectable,1=0,D11E38C4-2881,811E38C4-2001,D11E38C6-0098,811E38C6-0001,
+Pass 1st Level and Controller Fix,1=1,D1381BFC-802C,80381BEF-0000,
+Make Picture selectable,1=1,D11E38C4-2881,811E38C4-2001,D11E38C6-0098,811E38C6-0001,
 
 [POKEMON SNAP US]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C2212-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80382CB7-0000,
 Have\Apples Bombs and Flute,1=0,803AE51F-0004,
 Press L To Stop (All Levels,1=0,D00489E1-0020,8000B0A8-0024,D00489E0-0010,8000B0A8-0092,
 Infinite Film,1=0,800AC0E3-0000,
-Pass 1st Level and Controller Fix,1=0,D1382D1C-802C,80382D0F-0000,
-Make Picture selectable,1=0,D11E3184-2881,811E3184-2001,D11E3186-0098,811E3186-0001,
+Pass 1st Level and Controller Fix,1=1,D1382D1C-802C,80382D0F-0000,
+Make Picture selectable,1=1,D11E3184-2881,811E3184-2001,D11E3186-0098,811E3186-0001,
 
 [POKEMON SNAP US]
-NumberOfGroups=5
+NumberOfGroups=7
 Enable All Levels,1=0,810C2232-0006,
 Have\Rapid Fire Apples and Bombs,1=0,80382CB7-0000,
 Have\Apples Bombs and Flute,1=0,803AE51F-0004,
 Press L To Stop (All Levels,1=0,D00489E1-0020,8000B0A8-0024,D00489E0-0010,8000B0A8-0092,
 Infinite Film,1=0,800AC0E3-0000,
-Pass 1st Level and Controller Fix,1=0,D1382D1C-802C,80382D0F-0000,
-Make Picture selectable,1=0,D11E30F4-2881,811E30F4-2001,D11E30F6-0098,811E30F6-0001,
+Pass 1st Level and Controller Fix,1=1,D1382D1C-802C,80382D0F-0000,
+Make Picture selectable,1=1,D11E30F4-2881,811E30F4-2001,D11E30F6-0098,811E30F6-0001,
 
 [DAIKATANA EU]
 NumberOfGroups=7
@@ -11116,10 +11109,10 @@ Max\Power,1=0,8020A971-0007,
 Infinite\Ammo (All Weapons),1=0,81261A40-A05B,
 Have All Weapons,1=0,8120A8F6-FFFF,
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=0
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=0
 
 [YOSHI STORY JP]
@@ -11203,7 +11196,7 @@ Misses Don't Count\Player 2,1=0,811C03F6-0000,
 All Difficulty Levels & Tracks Unlocked,1=0,801C8E70-001F,801C8E7B-0016,
 Infinite Course Out Time\Player 2,1=0,801C05AB-00FF,
 
-[WAVE RACE-64 JP R1]
+[WAVE RACE-64 JPR1]
 NumberOfGroups=7
 Misses Don't Count\Player 1,1=0,801C2CBF-0000 ,
 Infinite Time Stunt Mode,1=0,811C2E4E-3A98,
@@ -11213,7 +11206,7 @@ Misses Don't Count\Player 2,1=0,801C3037-0000,
 All Difficulty Levels & Tracks Unlocked,1=0,801CB4D0-001F,801CB4DB-0016,
 Infinite Course Out Time\Player 2,1=0,801C31EB-00FF,
 
-[WAVE RACE-64 JP R2]
+[WAVE RACE-64 JPR2]
 NumberOfGroups=7
 Misses Don't Count\Player 1,1=0,801C399F-0000,
 Infinite Time Stunt Mode,1=0,811C3B2E-3A98,
@@ -11233,7 +11226,7 @@ Misses Don't Count\Player 2,1=0,801D08B7-0000,
 All Difficulty Levels & Tracks Unlocked,1=0,801D9950-001F,801D995B-0016,
 Infinite Course Out Time\Player 2,1=0,801D0A6B-00FF,
 
-[WAVE RACE-64 US R1]
+[WAVE RACE-64 USR1]
 NumberOfGroups=7
 Misses Don't Count\Player 1,1=0,801C2A6F-0000,
 Infinite Time Stunt Mode,1=0,811C2BFE-3A98,
@@ -11275,7 +11268,7 @@ Have Items\Slot 2\Flash Light,1=0,801587C5-0001,
 Have All\Weapons & Infinite Ammo Player 1,1=0,8017AA9F-001E,8017AAB3-0008,8017AAB7-0009,801587C4-0009,8015D417-0001,801587C0-000C,801587C1-0060,50000601-0000,801587CB-0004,801587CD-000C,
 Time is Always 00:00:00,1=0,8110DD62-0000,
 
-[WIN BACK JP R1]
+[WIN BACK JPR1]
 NumberOfGroups=0
 
 [WIN BACK JP]
@@ -11289,16 +11282,16 @@ Have Items\Slot 2\Flash Light,1=0,801584C5-0001,
 Have All\Weapons & Infinite Ammo Player 1,1=0,8017A79F-001E,8017A7B3-0008,8017A7B7-0009,801584C4-0009,8015D117-0001,801584C0-000C,801584C1-0060,50000601-0000,801584CB-0009,801584CD-000C,
 Time is Always 00:00:00,1=0,8110DA62-0000,
 
-[PAWAFURU PUROYAKYU6 JP R1]
+[PAWAFURU PUROYAKYU6 JPR1]
 NumberOfGroups=0
 
-[PAWAFURU PUROYAKYU6 JP R2]
+[PAWAFURU PUROYAKYU6 JPR2]
 NumberOfGroups=0
 
 [PAWAFURU PUROYAKYU6 JP]
 NumberOfGroups=0
 
-[EMPTY P]
+[EMPTYP]
 NumberOfGroups=0
 
 [SHADOWGATE64 AU]
