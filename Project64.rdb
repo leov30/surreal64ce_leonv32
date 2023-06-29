@@ -1627,8 +1627,8 @@ SP Hack=No
 Good Name=Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)
 Internal Name=F3 UNI_CHAR2
 RDRAM Size=4
-Counter Factor=2
-Save Type=First Save Type
+Counter Factor=1
+Save Type=Sram
 CPU Type=Recompiler
 Self-modifying code Method=Default
 Use TLB=Yes
@@ -2230,7 +2230,7 @@ Good Name=Puyo Puyo Sun 64 (Japan)
 Internal Name=PUYO PUYO SUN 64
 RDRAM Size=4
 Counter Factor=2
-Save Type=First Save Type
+Save Type=4kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Cache
 Use TLB=No
@@ -2468,7 +2468,7 @@ Good Name=Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)
 Internal Name=Robopon64
 RDRAM Size=4
 Counter Factor=2
-Save Type=First Save Type
+Save Type=16kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Change Memory
 Use TLB=No
@@ -3092,7 +3092,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
-Cheat0=”Boot Fix”,811B20C0 0000,811B20C2 0000
+Cheat0=811B20C0 0000,811B20C2 0000
 
 [D4C45A1A-F425B25E-C:45]
 Good Name=WCW Nitro (USA)
@@ -5717,7 +5717,7 @@ Good Name=Doubutsu Banchou (Japan) (Proto)
 Internal Name=DOUBUTSU BANCHOU
 RDRAM Size=4
 Counter Factor=2
-Save Type=First Save Type
+Save Type=FlashRam
 CPU Type=Recompiler
 Self-modifying code Method=Default
 Use TLB=Yes
@@ -6389,7 +6389,7 @@ Good Name=Densha de Go! 64 (Japan)
 Internal Name=UNI_CHARGO!64
 RDRAM Size=4
 Counter Factor=2
-Save Type=First Save Type
+Save Type=16kbit Eeprom
 CPU Type=Recompiler
 Self-modifying code Method=Check Memory & cache
 Use TLB=Yes
@@ -6397,7 +6397,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
-Cheat0=”freeze fix”,81046576 0000
+Cheat0=81046576 0000
 
 [9B500E8E-E90550B3-C:50]
 Good Name=Resident Evil 2 (Europe) (En,Fr)
@@ -7356,7 +7356,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
-Cheat0=”freeze fix”,81068FCE 0000
+Cheat0=81068FCE 0000
 
 [E8E8DD70-415DD198-C:4A]
 Good Name=Morita Shougi 64 (Japan)
@@ -9215,7 +9215,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
-Cheat0=”Save fix”,D10C21A2 3021,810C21A0 2406,D10C21A2 3021,810C21A2 0001
+Cheat0=D10C21A2 3021,810C21A0 2406,D10C21A2 3021,810C21A2 0001
 
 [96BA4EFB-C9988E4E-C:00]
 Good Name=Derby Stallion 64 (Japan) (Beta) [b]
@@ -9230,7 +9230,7 @@ Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
-Cheat0=”Save fix”,D10C21A2 3021,810C21A0 2406,D10C21A2 3021,810C21A2 0001
+Cheat0=D10C21A2 3021,810C21A0 2406,D10C21A2 3021,810C21A2 0001
 
 [2FDAA221-A588A7CE-C:50]
 Good Name=Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)
@@ -13968,7 +13968,7 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 
-// ***** HACKS ADDED Fri 06/16/2023 *****
+// ***** HACKS ADDED Thu 06/29/2023 *****
 
 [E7CB2C43-93841F10-C:45]
 Good Name=Choro Q 64 - Eng
@@ -14969,7 +14969,7 @@ Good Name=Doubutsu Banchou - Eng v1.0
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
-Save Type=First Save Type
+Save Type=FlashRam
 CPU Type=Recompiler
 Self-modifying code Method=Default
 Use TLB=Yes
@@ -15077,7 +15077,7 @@ Delay SI=No
 SP Hack=No
 
 [7EB7669E-070FBD2F-C:45]
-Good Name=LoZOoT indigo Demo v0.1.10
+Good Name=LoZOoT Indigo Demo v0.1.10
 Internal Name=ZELDA HACK
 RDRAM Size=8
 Counter Factor=2
@@ -15156,6 +15156,76 @@ CPU Type=Recompiler
 Self-modifying code Method=Default
 Use TLB=No
 Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[0344880E-B3704780-C:45]
+Good Name=LoZOoT Indigo Demo v0.3.13
+Internal Name=ZELDA HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=Sram
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[A7C17E96-56D0B621-C:45]
+Good Name=LoZOoT The Sealed Palace v1.3
+Internal Name=ZELDA HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=Sram
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[60E66A15-747F2F83-C:45]
+Good Name=Mario Kart 64 Amped Up v2.95a
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[9B2C6765-E98DA029-C:45]
+Good Name=Mario Kart 64 HootingTime v1.1a
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[9EFA01FB-F06E8E90-C:45]
+Good Name=Super Smash Bros. Remix v1.3.1
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=Sram
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=No
+Linking=Off
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
