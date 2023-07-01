@@ -13968,10 +13968,10 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=No
 
-// ***** HACKS ADDED Thu 06/29/2023 *****
+// ***** HACKS ADDED Sat 07/01/2023 *****
 
 [E7CB2C43-93841F10-C:45]
-Good Name=Choro Q 64 - Eng
+Good Name=Choro Q 64 T-Eng
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -14097,7 +14097,7 @@ Delay SI=No
 SP Hack=No
 
 [CE47DB1C-0B55D095-C:45]
-Good Name=J.League Live 64 - Eng
+Good Name=J.League Live 64 T-Eng
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=3
@@ -14601,7 +14601,7 @@ Delay SI=No
 SP Hack=No
 
 [091CEE5E-6D6DD8D8-C:45]
-Good Name=Custom Robo - Eng
+Good Name=Custom Robo T-Eng
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -14727,7 +14727,7 @@ Delay SI=No
 SP Hack=Yes
 
 [D0443A6B-C0B89972-C:41]
-Good Name=Chameleon Twist - Eng
+Good Name=Chameleon Twist T-Eng
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -14853,7 +14853,7 @@ Delay SI=No
 SP Hack=No
 
 [4F48B0FD-8E7173F4-C:45]
-Good Name=Tsumi to Batsu - Eng
+Good Name=Tsumi to Batsu T-Eng
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -14867,7 +14867,7 @@ Delay SI=No
 SP Hack=No
 
 [3C82C9A4-F0EC379D-C:4A]
-Good Name=Virtual Pro Wrestling 2 - Eng Beta3 (GoodN64)
+Good Name=Virtual Pro Wrestling 2 T-Eng Beta3 (GoodN64)
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -14881,7 +14881,7 @@ Delay SI=No
 SP Hack=No
 
 [8FAD5F8E-494D5FF7-C:45]
-Good Name=Dinosaur Planet - Dino Patch v2.4
+Good Name=Dinosaur Planet Dino Patch v2.4
 Internal Name=HACK
 RDRAM Size=8
 Counter Factor=2
@@ -14895,7 +14895,7 @@ Delay SI=No
 SP Hack=No
 
 [00000000-00000000-C:00]
-Good Name=Mortal Kombat Trilogy - Alt Beta
+Good Name=Mortal Kombat Trilogy Beta (No-Intro)
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -14909,7 +14909,7 @@ Delay SI=No
 SP Hack=No
 
 [2530F183-8CB88138-C:45]
-Good Name=GoldenEye 007 - Unlock Everything v1.1
+Good Name=GoldenEye 007 Unlock Everything v1.1
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=3
@@ -14937,7 +14937,7 @@ Delay SI=No
 SP Hack=No
 
 [9780C9FB-67CF6B4A-C:45]
-Good Name=Bomberman 64 - Eng
+Good Name=Bomberman 64 T-Eng
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=1
@@ -14951,7 +14951,7 @@ Delay SI=No
 SP Hack=No
 
 [4F1E88F7-4A5A3F96-C:4A]
-Good Name=Wonder Project J2 - Eng v1 (GoodN64)
+Good Name=Wonder Project J2 T-Eng v1 (GoodN64)
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -14965,7 +14965,7 @@ Delay SI=No
 SP Hack=No
 
 [3298A422-A040335C-C:45]
-Good Name=Doubutsu Banchou - Eng v1.0
+Good Name=Doubutsu Banchou T-Eng v1.0
 Internal Name=HACK
 RDRAM Size=4
 Counter Factor=2
@@ -15021,7 +15021,7 @@ Delay SI=No
 SP Hack=No
 
 [D1BEDE6E-EFF7F9C4-C:45]
-Good Name=LoZOoT Voyager of Time v2013 (GoodN64)
+Good Name=LoZOoT Voyager of Time 20130501 (GoodN64)
 Internal Name=ZELDA HACK
 RDRAM Size=8
 Counter Factor=2
@@ -15226,6 +15226,286 @@ CPU Type=Recompiler
 Self-modifying code Method=Change Memory
 Use TLB=No
 Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[F86A4521-4856E6DE-C:45]
+Good Name=Dinosaur Planet Enhanced 05022023
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=FlashRam
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[906C3F77-CE495EA1-C:45]
+Good Name=Dinosaur Planet Cracked
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=FlashRam
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[31739C69-A99E3CB2-C:45]
+Good Name=Donkey Kong 64 Tag Anywhere v5
+Internal Name=DONKEY KONG 64
+RDRAM Size=8
+Counter Factor=2
+Save Type=16kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Check Memory & cache
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[5318786C-994249C6-C:45]
+Good Name=Doom 64 Complete Full v1.0
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[75F70225-2A140B1F-C:45]
+Good Name=Doom 64 Complete Stripped v1.0
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[027D3DD7-B1A8E69A-C:45]
+Good Name=Duke Nukem 64 Coop up to 4 players v1.0
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[6C77081E-D3AD6C5C-C:45]
+Good Name=F-Zero X ZX Overdrive v1.0.2
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=Sram
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[C7EAB298-E71A2B1D-C:45]
+Good Name=GoldenEye 007 Compilation Pack v1.1
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=3
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=Yes
+
+[9332BC20-3E9014AB-C:45]
+Good Name=SM64 Mario's Vacation Course v1.7.2
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[E874812D-4ED6D62C-C:45]
+Good Name=SM64 Marioblade Chronicles 64
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[425D3F76-B9CF3A13-C:45]
+Good Name=LoZOoT Gold Quest v1.1
+Internal Name=ZELDA HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=Sram
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[0AB93E28-6119FAD9-C:45]
+Good Name=LoZOoT Spaceworld '97 Beta Experience R1
+Internal Name=ZELDA HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=Sram
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[51F00534-F2375476-C:45]
+Good Name=Super Smash Bros. Remix v1.4.0
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=Sram
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=No
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[824C5A80-43245C7E-C:45]
+Good Name=SM64 Sonic Edition v4.1
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[79E1BA00-63B46F86-C:45]
+Good Name=SM64 The Green Stars v2.1 (GoodN64)
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[FC30B872-FC0E7C2A-C:45]
+Good Name=SM64 Through the Ages v1.1
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[4246E6B0-F112A468-C:45]
+Good Name=SM64 Land v1.1
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[125C6F53-865BD9CA-C:45]
+Good Name=SM64 Odyssey 64
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[3681B797-9276E0DC-C:45]
+Good Name=SM64 Star Road Final
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[E81D3F66-B4190056-C:45]
+Good Name=SM64 Totsugeki 64
+Internal Name=HACK
+RDRAM Size=8
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
 Reg Cache=Yes
 Delay SI=No
 SP Hack=No
