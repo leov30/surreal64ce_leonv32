@@ -15734,4 +15734,284 @@ Reg Cache=Yes
 Delay SI=No
 SP Hack=Yes
 
+[810CED2D-D7B3F710-C:45]
+Good Name=Body Harvest T-Spa v 0.98
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=1
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Check Memory & cache
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=Yes
+SP Hack=No
+
+[34AEB154-A4253B86-C:45]
+Good Name=Conker's Bad Fur Day T-Spa v1.1
+Internal Name=CONKER BFD
+RDRAM Size=4
+Counter Factor=2
+Save Type=16kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Protected Memory
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[EAD90778-BAE3DB92-C:45]
+Good Name=Duke Nukem - Zero Hour T-Spa v0.9
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=1
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Check Memory & cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[625E0850-1F1B2327-C:50]
+Good Name=GoldenEye 007 T-Spa v2.0 PAL (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=3
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=Yes
+
+[3A03E50F-E78D1CA7-C:45]
+Good Name=GoldenEye 007 T-Spa v2.0 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=3
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=Yes
+
+[5F946439-68FA5DD1-C:50]
+Good Name=Lylatwars T-Spa Dub v1.2
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Protected Memory
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[40CA1EC9-8CC292D4-C:45]
+Good Name=Mario Kart 64 T-Spa v1.1
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[56E06922-10F665F6-C:50]
+Good Name=Ready 2 Rumble Boxing T-Spa v2.0
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[88EC3675-59CE4583-C:45]
+Good Name=SM64 Rumble T-Spa v.3.9
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[42B15579-A6970D54-C:45]
+Good Name=SM64 T-Spa Dub v3.2
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[DF1C6413-F39F37B9-C:45]
+Good Name=SM64 T-Spa Dub v3.2 yumi
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[B1C7794B-D93DC5F3-C:4A]
+Good Name=Tsumi to Batsu T-Spa Dub v1.0b
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[D8C74049-29CDD8C4-C:50]
+Good Name=007 - The World is Not Enough T-Spa v1.0.1 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Protected Memory
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[8B2FCAD3-361B412C-C:50]
+Good Name=Banjo-Kazooie T-Spa v1.1 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Default
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=Yes
+
+[E9A9421D-E84BEB83-C:45]
+Good Name=GoldenEye 007 T-Spa v1.1 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=3
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=Yes
+
+[570B75EE-90883A9C-C:45]
+Good Name=GoldenEye 007 T-Spa v1.2 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=3
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Change Memory
+Use TLB=Yes
+Linking=Off
+Reg Cache=Yes
+Delay SI=No
+SP Hack=Yes
+
+[45C59BC3-D4C62468-C:50]
+Good Name=Mario Party T-Spa v1.0 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=1
+Save Type=4kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Protected Memory
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[392B11EE-76675E38-C:45]
+Good Name=Quest 64 T-Spa v1.0 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Check Memory & cache
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[40D5D2DE-78489F0F-C:45]
+Good Name=Rugrats in Paris T-Spa v0.10 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=First Save Type
+CPU Type=Recompiler
+Self-modifying code Method=Protected Memory
+Use TLB=Yes
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
+[E857ED95-6028F9AF-C:50]
+Good Name=Star Wars Episode I T-Spa v1.0.2 (GoodN64)
+Internal Name=HACK
+RDRAM Size=4
+Counter Factor=2
+Save Type=16kbit Eeprom
+CPU Type=Recompiler
+Self-modifying code Method=Check Memory & cache
+Use TLB=No
+Linking=On
+Reg Cache=Yes
+Delay SI=No
+SP Hack=No
+
 
