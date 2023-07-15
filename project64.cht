@@ -6947,13 +6947,12 @@ Cheat4="Timer is 3:59:96 in Time Attack",8122962E 1C1F
  
 [2B4F4EFB-43C511FE-C:50]
 Name=Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)
-Cheat0="[Unlock All Characters]",800E4933 00FF
-Cheat1="Open All Versus Arenas",800E4934 00FF,800E4935 00FF
-Cheat2="Infinite Health",800E2BDD 00C8
-Cheat3="One Hit To Kill\Player 1",800E2EB4 0080
-Cheat4="One Hit To Kill\Player 2",800E2BDC 0080
-Cheat5="Infinite time",800FF18E 00F0
-Cheat6="No music",800B7718 0000
+Cheat0="Open All Versus Arenas",800E4934 00FF,800E4935 00FF
+Cheat1="Infinite Health",800E2BDD 00C8
+Cheat2="One Hit To Kill\Player 1",800E2EB4 0080
+Cheat3="One Hit To Kill\Player 2",800E2BDC 0080
+Cheat4="Infinite time",800FF18E 00F0
+Cheat5="No music",800B7718 0000
  
 [63E7391C-E6CCEA33-C:45]
 Name=Tom and Jerry in Fists of Furry (USA)
