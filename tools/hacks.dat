@@ -1,0 +1,738 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Surreal64CE Hacks</name>
+		<description>Surreal64CE Hacks</description>
+		<version>1.0</version>
+		<date>Sun 12/24/2023</date>
+		<author>leonv32</author>
+		<url>https://www.emuxtras.net</url>
+	</header>
+	<game name="007 - The World is Not E. T-Spa">
+		<description>007 - The World is Not E. T-Spa (GoodN64)</description>
+		<rom name="007 - The World is Not E. T-Spa (GoodN64).z64" size="33554432" crc="5d600d30"/>
+	</game>
+	<game name="Aleck64 Donchan Puzzle Hanabi de Doon!">
+		<description>Aleck64 Donchan Puzzle Hanabi de Doon! (GoodN64)</description>
+		<rom name="Aleck64 Donchan Puzzle Hanabi de Doon! (GoodN64).z64" size="33554432" crc="cb3bf444"/>
+	</game>
+	<game name="Aleck64 Eleven Beat - World Tournament">
+		<description>Aleck64 Eleven Beat - World Tournament (GoodN64)</description>
+		<rom name="Aleck64 Eleven Beat - World Tournament (GoodN64).z64" size="8388608" crc="d4e92780"/>
+	</game>
+	<game name="Aleck64 Kuru Kuru Fever">
+		<description>Aleck64 Kuru Kuru Fever (GoodN64)</description>
+		<rom name="Aleck64 Kuru Kuru Fever (GoodN64).z64" size="33554432" crc="f2481802"/>
+	</game>
+	<game name="Aleck64 Star Soldier - V.E.">
+		<description>Aleck64 Star Soldier - V.E. (GoodN64)</description>
+		<rom name="Aleck64 Star Soldier - V.E. (GoodN64).z64" size="12582912" crc="1ec83c9f"/>
+	</game>
+	<game name="Aleck64 Tower &amp; Shaft">
+		<description>Aleck64 Tower &amp; Shaft (GoodN64)</description>
+		<rom name="Aleck64 Tower &amp; Shaft (GoodN64).z64" size="16777216" crc="01ae917a"/>
+	</game>
+	<game name="Aleck64 Vivid Dolls">
+		<description>Aleck64 Vivid Dolls (GoodN64)</description>
+		<rom name="Aleck64 Vivid Dolls (GoodN64).z64" size="8388608" crc="bf7ae845"/>
+	</game>
+	<game name="B-K Dreamie Final">
+		<description>B-K Dreamie Final</description>
+		<rom name="B-K Dreamie Final.z64" size="67108864" crc="d5eefd9c"/>
+	</game>
+	<game name="B-K Gruntilda's Mask v1.2">
+		<description>B-K Gruntilda's Mask v1.2</description>
+		<rom name="B-K Gruntilda's Mask v1.2.z64" size="67108864" crc="1194d7b1"/>
+	</game>
+	<game name="B-K NightBear Before Christmas v1.0">
+		<description>B-K NightBear Before Christmas v1.0</description>
+		<rom name="B-K NightBear Before Christmas v1.0.z64" size="67108864" crc="43d7324f"/>
+	</game>
+	<game name="B-K Stay At Home Demo v1.9">
+		<description>B-K Stay At Home Demo v1.9</description>
+		<rom name="B-K Stay At Home Demo v1.9.z64" size="67108864" crc="b7144f94"/>
+	</game>
+	<game name="B-K T-Spa v1.1">
+		<description>B-K T-Spa v1.1 (GoodN64)</description>
+		<rom name="B-K T-Spa v1.1 (GoodN64).z64" size="16777216" crc="37eee852"/>
+	</game>
+	<game name="B-K The Bear Waker v1.0">
+		<description>B-K The Bear Waker v1.0</description>
+		<rom name="B-K The Bear Waker v1.0.z64" size="67108864" crc="e5bef626"/>
+	</game>
+	<game name="B-K The Jiggies of Time v1.3">
+		<description>B-K The Jiggies of Time v1.3</description>
+		<rom name="B-K The Jiggies of Time v1.3.z64" size="67108864" crc="5efafc54"/>
+	</game>
+	<game name="Body Harvest T-Spa v0.98">
+		<description>Body Harvest T-Spa v0.98</description>
+		<rom name="Body Harvest T-Spa v0.98.z64" size="12582912" crc="8333a945"/>
+	</game>
+	<game name="Bomberman 64 T-Eng">
+		<description>Bomberman 64 T-Eng</description>
+		<rom name="Bomberman 64 T-Eng.z64" size="10485760" crc="9bb224ca"/>
+	</game>
+	<game name="Chameleon Twist T-Eng">
+		<description>Chameleon Twist T-Eng</description>
+		<rom name="Chameleon Twist T-Eng.z64" size="12582912" crc="6def366b"/>
+	</game>
+	<game name="Choro Q 64 T-Eng">
+		<description>Choro Q 64 T-Eng</description>
+		<rom name="Choro Q 64 T-Eng.z64" size="12582912" crc="4c50d8c5"/>
+	</game>
+	<game name="Conker's Bad Fur Day T-Spa v1.1">
+		<description>Conker's Bad Fur Day T-Spa v1.1</description>
+		<rom name="Conker's Bad Fur Day T-Spa v1.1.z64" size="67108864" crc="6dafe20e"/>
+	</game>
+	<game name="Custom Robo T-Eng">
+		<description>Custom Robo T-Eng</description>
+		<rom name="Custom Robo T-Eng.z64" size="16777216" crc="6b6ea7db"/>
+	</game>
+	<game name="Densha de Go! 64 T-Eng v1.01">
+		<description>Densha de Go! 64 T-Eng v1.01</description>
+		<rom name="Densha de Go! 64 T-Eng v1.01.z64" size="31457280" crc="4cb52323"/>
+	</game>
+	<game name="Dinosaur Planet Cracked">
+		<description>Dinosaur Planet Cracked</description>
+		<rom name="Dinosaur Planet Cracked.z64" size="67108864" crc="704c0012"/>
+	</game>
+	<game name="Dinosaur Planet Dino Patch v2.4">
+		<description>Dinosaur Planet Dino Patch v2.4</description>
+		<rom name="Dinosaur Planet Dino Patch v2.4.z64" size="67108864" crc="298445c8"/>
+	</game>
+	<game name="Dinosaur Planet Enhanced 05022023">
+		<description>Dinosaur Planet Enhanced 05022023</description>
+		<rom name="Dinosaur Planet Enhanced 05022023.z64" size="67108864" crc="e96ca3c1"/>
+	</game>
+	<game name="Donkey Kong 64 Tag Anywhere v5">
+		<description>Donkey Kong 64 Tag Anywhere v5</description>
+		<rom name="Donkey Kong 64 Tag Anywhere v5.z64" size="33872544" crc="5fa38501"/>
+	</game>
+	<game name="Doom 64 Complete Full v1.0">
+		<description>Doom 64 Complete Full v1.0</description>
+		<rom name="Doom 64 Complete Full v1.0.z64" size="15859892" crc="1153249e"/>
+	</game>
+	<game name="Doom 64 Complete Stripped v1.0">
+		<description>Doom 64 Complete Stripped v1.0</description>
+		<rom name="Doom 64 Complete Stripped v1.0.z64" size="13897068" crc="3032bd05"/>
+	</game>
+	<game name="Doom 64 Merciless Edition II v1.0">
+		<description>Doom 64 Merciless Edition II v1.0</description>
+		<rom name="Doom 64 Merciless Edition II v1.0.z64" size="8388608" crc="b6d8f61b"/>
+	</game>
+	<game name="Doubutsu Banchou T-Eng v1.0">
+		<description>Doubutsu Banchou T-Eng v1.0</description>
+		<rom name="Doubutsu Banchou T-Eng v1.0.z64" size="33554432" crc="d95de5fc"/>
+	</game>
+	<game name="Doubutsu no Mori T-Eng 20101202">
+		<description>Doubutsu no Mori T-Eng 20101202 (GoodN64)</description>
+		<rom name="Doubutsu no Mori T-Eng 20101202 (GoodN64).z64" size="33554432" crc="46239627"/>
+	</game>
+	<game name="Doubutsu no Mori T-Eng 90pct">
+		<description>Doubutsu no Mori T-Eng 90pct (GoodN64)</description>
+		<rom name="Doubutsu no Mori T-Eng 90pct (GoodN64).z64" size="33554432" crc="6232962a"/>
+	</game>
+	<game name="Duke Nukem - Zero Hour T-Spa v0.9">
+		<description>Duke Nukem - Zero Hour T-Spa v0.9</description>
+		<rom name="Duke Nukem - Zero Hour T-Spa v0.9.z64" size="33554432" crc="047753c8"/>
+	</game>
+	<game name="Duke Nukem 64 Coop up 4 players v1.0">
+		<description>Duke Nukem 64 Coop up 4 players v1.0</description>
+		<rom name="Duke Nukem 64 Coop up 4 players v1.0.z64" size="8388608" crc="723c99b1"/>
+	</game>
+	<game name="F-Zero X 10th Anniversary">
+		<description>F-Zero X 10th Anniversary (GoodN64)</description>
+		<rom name="F-Zero X 10th Anniversary (GoodN64).z64" size="16777216" crc="2099e6db"/>
+	</game>
+	<game name="F-Zero X 2nd Boost">
+		<description>F-Zero X 2nd Boost (GoodN64)</description>
+		<rom name="F-Zero X 2nd Boost (GoodN64).z64" size="16777216" crc="588ca6ae"/>
+	</game>
+	<game name="F-Zero X Climax v1.1">
+		<description>F-Zero X Climax v1.1 (GoodN64)</description>
+		<rom name="F-Zero X Climax v1.1 (GoodN64).z64" size="16777216" crc="3c2a850b"/>
+	</game>
+	<game name="F-Zero X DXP Track Pack">
+		<description>F-Zero X DXP Track Pack (GoodN64)</description>
+		<rom name="F-Zero X DXP Track Pack (GoodN64).z64" size="16777216" crc="b25212c7"/>
+	</game>
+	<game name="F-Zero X DXP v1.0">
+		<description>F-Zero X DXP v1.0</description>
+		<rom name="F-Zero X DXP v1.0.z64" size="16777216" crc="4e74744b"/>
+	</game>
+	<game name="F-Zero X Expansion Pack">
+		<description>F-Zero X Expansion Pack (GoodN64)</description>
+		<rom name="F-Zero X Expansion Pack (GoodN64).z64" size="16777216" crc="4ca78dd4"/>
+	</game>
+	<game name="F-Zero X GPT">
+		<description>F-Zero X GPT (GoodN64)</description>
+		<rom name="F-Zero X GPT (GoodN64).z64" size="16777216" crc="15356ba6"/>
+	</game>
+	<game name="F-Zero X Hyper Speed Circuits">
+		<description>F-Zero X Hyper Speed Circuits (GoodN64)</description>
+		<rom name="F-Zero X Hyper Speed Circuits (GoodN64).z64" size="16777216" crc="5c53ea40"/>
+	</game>
+	<game name="F-Zero X II Generations v1.0">
+		<description>F-Zero X II Generations v1.0</description>
+		<rom name="F-Zero X II Generations v1.0.z64" size="16777216" crc="eaf340d0"/>
+	</game>
+	<game name="F-Zero X LXK">
+		<description>F-Zero X LXK (GoodN64)</description>
+		<rom name="F-Zero X LXK (GoodN64).z64" size="16777216" crc="12620b31"/>
+	</game>
+	<game name="F-Zero X New Lap">
+		<description>F-Zero X New Lap (GoodN64)</description>
+		<rom name="F-Zero X New Lap (GoodN64).z64" size="16777216" crc="3a758332"/>
+	</game>
+	<game name="F-Zero X ZX Overdrive v1.0.2">
+		<description>F-Zero X ZX Overdrive v1.0.2</description>
+		<rom name="F-Zero X ZX Overdrive v1.0.2.z64" size="16777216" crc="1d101099"/>
+	</game>
+	<game name="Fushigi no Dungeon T-Eng v1.02">
+		<description>Fushigi no Dungeon T-Eng v1.02</description>
+		<rom name="Fushigi no Dungeon T-Eng v1.02.z64" size="33554432" crc="2e2752c4"/>
+	</game>
+	<game name="Getter Love!!  T-Eng v1.01">
+		<description>Getter Love!!  T-Eng v1.01</description>
+		<rom name="Getter Love!!  T-Eng v1.01.z64" size="12582912" crc="26ce64f2"/>
+	</game>
+	<game name="GoldenEye 007 Compilation Pack v1.1">
+		<description>GoldenEye 007 Compilation Pack v1.1</description>
+		<rom name="GoldenEye 007 Compilation Pack v1.1.z64" size="12582912" crc="7245841e"/>
+	</game>
+	<game name="GoldenEye 007 T-Spa v1.1">
+		<description>GoldenEye 007 T-Spa v1.1 (GoodN64)</description>
+		<rom name="GoldenEye 007 T-Spa v1.1 (GoodN64).z64" size="12582912" crc="f7f1d409"/>
+	</game>
+	<game name="GoldenEye 007 T-Spa v1.2">
+		<description>GoldenEye 007 T-Spa v1.2 (GoodN64)</description>
+		<rom name="GoldenEye 007 T-Spa v1.2 (GoodN64).z64" size="12582912" crc="4d1c35de"/>
+	</game>
+	<game name="GoldenEye 007 T-Spa v2.0">
+		<description>GoldenEye 007 T-Spa v2.0 (GoodN64)</description>
+		<rom name="GoldenEye 007 T-Spa v2.0 (GoodN64).z64" size="12582912" crc="14947873"/>
+	</game>
+	<game name="GoldenEye 007 T-Spa v2.0 PAL">
+		<description>GoldenEye 007 T-Spa v2.0 PAL (GoodN64)</description>
+		<rom name="GoldenEye 007 T-Spa v2.0 PAL (GoodN64).z64" size="12582912" crc="45ba8b51"/>
+	</game>
+	<game name="GoldenEye 007 Unlock Everything v1.1">
+		<description>GoldenEye 007 Unlock Everything v1.1</description>
+		<rom name="GoldenEye 007 Unlock Everything v1.1.z64" size="12582912" crc="f5d7d057"/>
+	</game>
+	<game name="Harukanaru Augusta T-Eng v1.0">
+		<description>Harukanaru Augusta T-Eng v1.0</description>
+		<rom name="Harukanaru Augusta T-Eng v1.0.z64" size="15125440" crc="d2a6b89f"/>
+	</game>
+	<game name="J.League Dynamite Soccer 64 T-Eng v1.0">
+		<description>J.League Dynamite Soccer 64 T-Eng v1.0</description>
+		<rom name="J.League Dynamite Soccer 64 T-Eng v1.0.z64" size="7625120" crc="a615c97f"/>
+	</game>
+	<game name="J.League Live 64 T-Eng">
+		<description>J.League Live 64 T-Eng</description>
+		<rom name="J.League Live 64 T-Eng.z64" size="8388608" crc="41b82889"/>
+	</game>
+	<game name="Kiratto Kaiketsu! 64 T-Eng">
+		<description>Kiratto Kaiketsu! 64 T-Eng (GoodN64)</description>
+		<rom name="Kiratto Kaiketsu! 64 T-Eng (GoodN64).z64" size="12582912" crc="99e0245a"/>
+	</game>
+	<game name="Last Legion UX T-Eng v1.0">
+		<description>Last Legion UX T-Eng v1.0</description>
+		<rom name="Last Legion UX T-Eng v1.0.z64" size="8823808" crc="d08a2ccd"/>
+	</game>
+	<game name="LoZMM Item Randomizer 10-2013">
+		<description>LoZMM Item Randomizer 10-2013</description>
+		<rom name="LoZMM Item Randomizer 10-2013.z64" size="33554432" crc="bd9bf4cf"/>
+	</game>
+	<game name="LoZMM Masked Quest v4.3.0">
+		<description>LoZMM Masked Quest v4.3.0</description>
+		<rom name="LoZMM Masked Quest v4.3.0.z64" size="33554432" crc="5c60eb0c"/>
+	</game>
+	<game name="LoZMM Master Quest v1.1">
+		<description>LoZMM Master Quest v1.1 (GoodN64)</description>
+		<rom name="LoZMM Master Quest v1.1 (GoodN64).z64" size="33554432" crc="4afe577d"/>
+	</game>
+	<game name="LoZMM Redux v2.0">
+		<description>LoZMM Redux v2.0</description>
+		<rom name="LoZMM Redux v2.0.z64" size="33554432" crc="26df7f5c"/>
+	</game>
+	<game name="LoZOoT Dark Hyrule Fantasy Demo v1.0">
+		<description>LoZOoT Dark Hyrule Fantasy Demo v1.0</description>
+		<rom name="LoZOoT Dark Hyrule Fantasy Demo v1.0.z64" size="67108864" crc="51647aa2"/>
+	</game>
+	<game name="LoZOoT Dawn &amp; Dusk v2.0">
+		<description>LoZOoT Dawn &amp; Dusk v2.0</description>
+		<rom name="LoZOoT Dawn &amp; Dusk v2.0.z64" size="33554432" crc="4db36f6b"/>
+	</game>
+	<game name="LoZOoT DiskDrive Expansion Rev2">
+		<description>LoZOoT DiskDrive Expansion Rev2</description>
+		<rom name="LoZOoT DiskDrive Expansion Rev2.z64" size="33554432" crc="84fed8c5"/>
+	</game>
+	<game name="LoZOoT Gold Quest v1.1">
+		<description>LoZOoT Gold Quest v1.1</description>
+		<rom name="LoZOoT Gold Quest v1.1.z64" size="33554432" crc="c3201419"/>
+	</game>
+	<game name="LoZOoT Indigo Demo v0.1.10">
+		<description>LoZOoT Indigo Demo v0.1.10</description>
+		<rom name="LoZOoT Indigo Demo v0.1.10.z64" size="33554432" crc="8bd84532"/>
+	</game>
+	<game name="LoZOoT Indigo Demo v0.3.13">
+		<description>LoZOoT Indigo Demo v0.3.13</description>
+		<rom name="LoZOoT Indigo Demo v0.3.13.z64" size="33554432" crc="bc5c500a"/>
+	</game>
+	<game name="LoZOoT Indigo Demo v0.3.15">
+		<description>LoZOoT Indigo Demo v0.3.15</description>
+		<rom name="LoZOoT Indigo Demo v0.3.15.z64" size="33554432" crc="8ee9c266"/>
+	</game>
+	<game name="LoZOoT Master of Time v1.0">
+		<description>LoZOoT Master of Time v1.0</description>
+		<rom name="LoZOoT Master of Time v1.0.z64" size="33554432" crc="4673b802"/>
+	</game>
+	<game name="LoZOoT Master Quest Redux v2.2">
+		<description>LoZOoT Master Quest Redux v2.2</description>
+		<rom name="LoZOoT Master Quest Redux v2.2.z64" size="33554432" crc="d6136810"/>
+	</game>
+	<game name="LoZOoT Nimpize Adventure">
+		<description>LoZOoT Nimpize Adventure</description>
+		<rom name="LoZOoT Nimpize Adventure.z64" size="33554432" crc="113f4ff9"/>
+	</game>
+	<game name="LoZOoT Petrie's Challenge">
+		<description>LoZOoT Petrie's Challenge</description>
+		<rom name="LoZOoT Petrie's Challenge.z64" size="33554432" crc="f5a05ca8"/>
+	</game>
+	<game name="LoZOoT Play as Ganondorf v1.0">
+		<description>LoZOoT Play as Ganondorf v1.0</description>
+		<rom name="LoZOoT Play as Ganondorf v1.0.z64" size="33554432" crc="71217d6d"/>
+	</game>
+	<game name="LoZOoT Redux v2.2">
+		<description>LoZOoT Redux v2.2</description>
+		<rom name="LoZOoT Redux v2.2.z64" size="33554432" crc="1823ef24"/>
+	</game>
+	<game name="LoZOoT Ruinous Shards">
+		<description>LoZOoT Ruinous Shards</description>
+		<rom name="LoZOoT Ruinous Shards.z64" size="67108864" crc="ab4684f1"/>
+	</game>
+	<game name="LoZOoT Spaceworld '97 Experience Rev1">
+		<description>LoZOoT Spaceworld '97 Experience Rev1</description>
+		<rom name="LoZOoT Spaceworld '97 Experience Rev1.z64" size="33554432" crc="7ad8d9bd"/>
+	</game>
+	<game name="LoZOoT Spaceworld '97 Experience Rev2">
+		<description>LoZOoT Spaceworld '97 Experience Rev2</description>
+		<rom name="LoZOoT Spaceworld '97 Experience Rev2.z64" size="33554432" crc="5b1325f3"/>
+	</game>
+	<game name="LoZOoT Star Fox 64 Survival v1.4">
+		<description>LoZOoT Star Fox 64 Survival v1.4</description>
+		<rom name="LoZOoT Star Fox 64 Survival v1.4.z64" size="33554432" crc="31eb0694"/>
+	</game>
+	<game name="LoZOoT The Fate of Bombiwa v1.0.3">
+		<description>LoZOoT The Fate of Bombiwa v1.0.3</description>
+		<rom name="LoZOoT The Fate of Bombiwa v1.0.3.z64" size="33554432" crc="aaa24bfa"/>
+	</game>
+	<game name="LoZOoT The Missing Link v2.0">
+		<description>LoZOoT The Missing Link v2.0</description>
+		<rom name="LoZOoT The Missing Link v2.0.z64" size="16777216" crc="421cccef"/>
+	</game>
+	<game name="LoZOoT The Sealed Palace v1.3">
+		<description>LoZOoT The Sealed Palace v1.3</description>
+		<rom name="LoZOoT The Sealed Palace v1.3.z64" size="33554432" crc="91c1b340"/>
+	</game>
+	<game name="LoZOoT Voyager of Time">
+		<description>LoZOoT Voyager of Time (GoodN64)</description>
+		<rom name="LoZOoT Voyager of Time (GoodN64).z64" size="67125760" crc="53d6274e"/>
+	</game>
+	<game name="Lylatwars T-Spa Dub v1.2">
+		<description>Lylatwars T-Spa Dub v1.2</description>
+		<rom name="Lylatwars T-Spa Dub v1.2.z64" size="16777216" crc="7600d5c0"/>
+	</game>
+	<game name="Mario no Photopie T-Eng v1.0">
+		<description>Mario no Photopie T-Eng v1.0</description>
+		<rom name="Mario no Photopie T-Eng v1.0.z64" size="16777216" crc="9605710e"/>
+	</game>
+	<game name="Mario no Photopie T-Eng v1.0 old art">
+		<description>Mario no Photopie T-Eng v1.0 old art</description>
+		<rom name="Mario no Photopie T-Eng v1.0 old art.z64" size="16777216" crc="e9d24526"/>
+	</game>
+	<game name="Mario Party T-Spa v1.0">
+		<description>Mario Party T-Spa v1.0 (GoodN64)</description>
+		<rom name="Mario Party T-Spa v1.0 (GoodN64).z64" size="33554432" crc="c6db73ba"/>
+	</game>
+	<game name="MK64 Amped Up v2.90">
+		<description>MK64 Amped Up v2.90</description>
+		<rom name="MK64 Amped Up v2.90.z64" size="19922944" crc="d332d361"/>
+	</game>
+	<game name="MK64 Amped Up v2.95a">
+		<description>MK64 Amped Up v2.95a</description>
+		<rom name="MK64 Amped Up v2.95a.z64" size="20483056" crc="2510954c"/>
+	</game>
+	<game name="MK64 Amped Up v2.96a">
+		<description>MK64 Amped Up v2.96a</description>
+		<rom name="MK64 Amped Up v2.96a.z64" size="20612720" crc="914504e1"/>
+	</game>
+	<game name="MK64 Amped Up v2.97a">
+		<description>MK64 Amped Up v2.97a</description>
+		<rom name="MK64 Amped Up v2.97a.z64" size="20971520" crc="3c5b4a83"/>
+	</game>
+	<game name="MK64 CPUs Use Human Items v2.7">
+		<description>MK64 CPUs Use Human Items v2.7</description>
+		<rom name="MK64 CPUs Use Human Items v2.7.z64" size="12582912" crc="f3af06e8"/>
+	</game>
+	<game name="MK64 Dragon Ball Kart 64 v1.0">
+		<description>MK64 Dragon Ball Kart 64 v1.0</description>
+		<rom name="MK64 Dragon Ball Kart 64 v1.0.z64" size="16777216" crc="2b96f088"/>
+	</game>
+	<game name="MK64 Hooting Time v1.0">
+		<description>MK64 Hooting Time v1.0</description>
+		<rom name="MK64 Hooting Time v1.0.z64" size="21011856" crc="37e1ae1a"/>
+	</game>
+	<game name="MK64 Hooting Time v1.1a">
+		<description>MK64 Hooting Time v1.1a</description>
+		<rom name="MK64 Hooting Time v1.1a.z64" size="21028976" crc="75166584"/>
+	</game>
+	<game name="MK64 Hooting Time v1.2">
+		<description>MK64 Hooting Time v1.2</description>
+		<rom name="MK64 Hooting Time v1.2.z64" size="20808752" crc="aa96cb16"/>
+	</game>
+	<game name="MK64 Hooting Time v1.3">
+		<description>MK64 Hooting Time v1.3</description>
+		<rom name="MK64 Hooting Time v1.3.z64" size="20955248" crc="4f51cf6d"/>
+	</game>
+	<game name="MK64 OverKart 64 DLC4 v4.2">
+		<description>MK64 OverKart 64 DLC4 v4.2</description>
+		<rom name="MK64 OverKart 64 DLC4 v4.2.z64" size="16459840" crc="d13f465f"/>
+	</game>
+	<game name="MK64 T-Spa v1.1">
+		<description>MK64 T-Spa v1.1</description>
+		<rom name="MK64 T-Spa v1.1.z64" size="12582912" crc="81270ec7"/>
+	</game>
+	<game name="Nintama Rantarou 64 T-Eng v1.0">
+		<description>Nintama Rantarou 64 T-Eng v1.0</description>
+		<rom name="Nintama Rantarou 64 T-Eng v1.0.z64" size="5111808" crc="788c0242"/>
+	</game>
+	<game name="Paper Mario Cooking Princess v1.0">
+		<description>Paper Mario Cooking Princess v1.0</description>
+		<rom name="Paper Mario Cooking Princess v1.0.z64" size="42373824" crc="ad836d7e"/>
+	</game>
+	<game name="Paper Mario TTYD64 v0.92">
+		<description>Paper Mario TTYD64 v0.92</description>
+		<rom name="Paper Mario TTYD64 v0.92.z64" size="48181472" crc="91258f4a"/>
+	</game>
+	<game name="PD - Shuffle Puck 64">
+		<description>PD - Shuffle Puck 64 (GoodN64)</description>
+		<rom name="PD - Shuffle Puck 64 (GoodN64).z64" size="3932160" crc="dddda2c6"/>
+	</game>
+	<game name="Perfect Dark T-Eng">
+		<description>Perfect Dark T-Eng (GoodN64)</description>
+		<rom name="Perfect Dark T-Eng (GoodN64).z64" size="33554432" crc="bfcc5c15"/>
+	</game>
+	<game name="Pokemon Stadium Kaizo">
+		<description>Pokemon Stadium Kaizo</description>
+		<rom name="Pokemon Stadium Kaizo.z64" size="33554432" crc="6144ed3d"/>
+	</game>
+	<game name="Portal 64 v0.12.0">
+		<description>Portal 64 v0.12.0</description>
+		<rom name="Portal 64 v0.12.0.z64" size="15557580" crc="a92ce0c9"/>
+	</game>
+	<game name="Puyo Puyo Sun 64 T-Eng v1.1">
+		<description>Puyo Puyo Sun 64 T-Eng v1.1</description>
+		<rom name="Puyo Puyo Sun 64 T-Eng v1.1.z64" size="16777216" crc="c7d71667"/>
+	</game>
+	<game name="Quest 64 T-Spa v1.0">
+		<description>Quest 64 T-Spa v1.0 (GoodN64)</description>
+		<rom name="Quest 64 T-Spa v1.0 (GoodN64).z64" size="16777216" crc="21acec33"/>
+	</game>
+	<game name="Ready 2 Rumble Boxing T-Spa v2.0">
+		<description>Ready 2 Rumble Boxing T-Spa v2.0</description>
+		<rom name="Ready 2 Rumble Boxing T-Spa v2.0.z64" size="33554432" crc="c7805d9b"/>
+	</game>
+	<game name="Rugrats in Paris T-Spa v0.10">
+		<description>Rugrats in Paris T-Spa v0.10 (GoodN64)</description>
+		<rom name="Rugrats in Paris T-Spa v0.10 (GoodN64).z64" size="16777216" crc="bda8a807"/>
+	</game>
+	<game name="SM64 3D World">
+		<description>SM64 3D World</description>
+		<rom name="SM64 3D World.z64" size="9588736" crc="4664bf6b"/>
+	</game>
+	<game name="SM64 B3313 Internal Plexus v0.7">
+		<description>SM64 B3313 Internal Plexus v0.7</description>
+		<rom name="SM64 B3313 Internal Plexus v0.7.z64" size="67108864" crc="0d17ab73"/>
+	</game>
+	<game name="SM64 BACKROOMS v1.1">
+		<description>SM64 BACKROOMS v1.1</description>
+		<rom name="SM64 BACKROOMS v1.1.z64" size="10204928" crc="762dc510"/>
+	</game>
+	<game name="SM64 Celestio 64 Demo v1.0.2">
+		<description>SM64 Celestio 64 Demo v1.0.2</description>
+		<rom name="SM64 Celestio 64 Demo v1.0.2.z64" size="12727968" crc="2be7513c"/>
+	</game>
+	<game name="SM64 Chaos v4.0">
+		<description>SM64 Chaos v4.0</description>
+		<rom name="SM64 Chaos v4.0.z64" size="8388608" crc="0a1bfe0c"/>
+	</game>
+	<game name="SM64 Christmas Dream 64 v1.0">
+		<description>SM64 Christmas Dream 64 v1.0</description>
+		<rom name="SM64 Christmas Dream 64 v1.0.z64" size="67108864" crc="3100a2ed"/>
+	</game>
+	<game name="SM64 Cursed Mirror v1.2">
+		<description>SM64 Cursed Mirror v1.2</description>
+		<rom name="SM64 Cursed Mirror v1.2.z64" size="26279136" crc="c029285a"/>
+	</game>
+	<game name="SM64 Cursed Mirror v1.3.1">
+		<description>SM64 Cursed Mirror v1.3.1</description>
+		<rom name="SM64 Cursed Mirror v1.3.1.z64" size="26295712" crc="5f061316"/>
+	</game>
+	<game name="SM64 ELISE v1.0">
+		<description>SM64 ELISE v1.0</description>
+		<rom name="SM64 ELISE v1.0.z64" size="57395040" crc="50c09f6c"/>
+	</game>
+	<game name="SM64 ELISE v1.1.1">
+		<description>SM64 ELISE v1.1.1</description>
+		<rom name="SM64 ELISE v1.1.1.z64" size="57387280" crc="36448d1d"/>
+	</game>
+	<game name="SM64 Kirby Edition v1.1">
+		<description>SM64 Kirby Edition v1.1 (GoodN64)</description>
+		<rom name="SM64 Kirby Edition v1.1 (GoodN64).z64" size="25165824" crc="f7965c2e"/>
+	</game>
+	<game name="SM64 Land v1.1">
+		<description>SM64 Land v1.1</description>
+		<rom name="SM64 Land v1.1.z64" size="67108864" crc="017df96e"/>
+	</game>
+	<game name="SM64 Lucy's Levitation v1.0.4">
+		<description>SM64 Lucy's Levitation v1.0.4</description>
+		<rom name="SM64 Lucy's Levitation v1.0.4.z64" size="23654624" crc="a09e1cb6"/>
+	</game>
+	<game name="SM64 Lug's Delightful Dioramas v1.02">
+		<description>SM64 Lug's Delightful Dioramas v1.02</description>
+		<rom name="SM64 Lug's Delightful Dioramas v1.02.z64" size="67108864" crc="852d0613"/>
+	</game>
+	<game name="SM64 Luigi's Mansion 64 v1.3">
+		<description>SM64 Luigi's Mansion 64 v1.3</description>
+		<rom name="SM64 Luigi's Mansion 64 v1.3.z64" size="67108864" crc="d86485fc"/>
+	</game>
+	<game name="SM64 Luigi's Mansion 64.5 v1.3">
+		<description>SM64 Luigi's Mansion 64.5 v1.3</description>
+		<rom name="SM64 Luigi's Mansion 64.5 v1.3.z64" size="67108864" crc="66f75e6b"/>
+	</game>
+	<game name="SM64 Mario 64 &amp; Yoshi v1.0">
+		<description>SM64 Mario 64 &amp; Yoshi v1.0</description>
+		<rom name="SM64 Mario 64 &amp; Yoshi v1.0.z64" size="8388608" crc="3c273093"/>
+	</game>
+	<game name="SM64 Mario 74 Console v1.0">
+		<description>SM64 Mario 74 Console v1.0</description>
+		<rom name="SM64 Mario 74 Console v1.0.z64" size="50331648" crc="095b3ab7"/>
+	</game>
+	<game name="SM64 Mario Odyssey v5">
+		<description>SM64 Mario Odyssey v5</description>
+		<rom name="SM64 Mario Odyssey v5.z64" size="8816265" crc="0d39c86d"/>
+	</game>
+	<game name="SM64 Mario vs. Wario Ware v1.0.1">
+		<description>SM64 Mario vs. Wario Ware v1.0.1</description>
+		<rom name="SM64 Mario vs. Wario Ware v1.0.1.z64" size="12752976" crc="c25cebf7"/>
+	</game>
+	<game name="SM64 Mario's New Gauntlet">
+		<description>SM64 Mario's New Gauntlet</description>
+		<rom name="SM64 Mario's New Gauntlet.z64" size="8388608" crc="5c48d2a0"/>
+	</game>
+	<game name="SM64 Mario's Vacation Course v1.6">
+		<description>SM64 Mario's Vacation Course v1.6</description>
+		<rom name="SM64 Mario's Vacation Course v1.6.z64" size="21193776" crc="0ce1cb0d"/>
+	</game>
+	<game name="SM64 Mario's Vacation Course v1.7.2">
+		<description>SM64 Mario's Vacation Course v1.7.2</description>
+		<rom name="SM64 Mario's Vacation Course v1.7.2.z64" size="21202800" crc="fd03d18b"/>
+	</game>
+	<game name="SM64 Marioblade Chronicles 64">
+		<description>SM64 Marioblade Chronicles 64</description>
+		<rom name="SM64 Marioblade Chronicles 64.z64" size="7544192" crc="6ab38f7c"/>
+	</game>
+	<game name="SM64 Missing Stars v1.1">
+		<description>SM64 Missing Stars v1.1 (GoodN64)</description>
+		<rom name="SM64 Missing Stars v1.1 (GoodN64).z64" size="25165824" crc="a1e60bd7"/>
+	</game>
+	<game name="SM64 Multiplayer Splitscreen v1.0">
+		<description>SM64 Multiplayer Splitscreen v1.0</description>
+		<rom name="SM64 Multiplayer Splitscreen v1.0.z64" size="8388608" crc="2da17419"/>
+	</game>
+	<game name="SM64 Multiplayer v1.4">
+		<description>SM64 Multiplayer v1.4</description>
+		<rom name="SM64 Multiplayer v1.4.z64" size="16777216" crc="d941da8c"/>
+	</game>
+	<game name="SM64 Ocarina of Time">
+		<description>SM64 Ocarina of Time</description>
+		<rom name="SM64 Ocarina of Time.z64" size="67108864" crc="d0971746"/>
+	</game>
+	<game name="SM64 Odyssey 64">
+		<description>SM64 Odyssey 64</description>
+		<rom name="SM64 Odyssey 64.z64" size="67108864" crc="be682849"/>
+	</game>
+	<game name="SM64 Only Up 64 v1.1">
+		<description>SM64 Only Up 64 v1.1</description>
+		<rom name="SM64 Only Up 64 v1.1.z64" size="65496448" crc="7cd92123"/>
+	</game>
+	<game name="SM64 Peachs Fury v1.1">
+		<description>SM64 Peachs Fury v1.1</description>
+		<rom name="SM64 Peachs Fury v1.1.z64" size="20505744" crc="96194116"/>
+	</game>
+	<game name="SM64 Randomizer v1.1.2">
+		<description>SM64 Randomizer v1.1.2</description>
+		<rom name="SM64 Randomizer v1.1.2.z64" size="8052544" crc="a9fe6c09"/>
+	</game>
+	<game name="SM64 Return To Yoshi's Island v1.0">
+		<description>SM64 Return To Yoshi's Island v1.0</description>
+		<rom name="SM64 Return To Yoshi's Island v1.0.z64" size="16777216" crc="86c20448"/>
+	</game>
+	<game name="SM64 Rumble T-Spa v.3.9">
+		<description>SM64 Rumble T-Spa v.3.9</description>
+		<rom name="SM64 Rumble T-Spa v.3.9.z64" size="8388608" crc="f5305d0b"/>
+	</game>
+	<game name="SM64 Sapphire Console v1.0">
+		<description>SM64 Sapphire Console v1.0</description>
+		<rom name="SM64 Sapphire Console v1.0.z64" size="8388608" crc="1d021d92"/>
+	</game>
+	<game name="SM64 Scrooge 64">
+		<description>SM64 Scrooge 64 (GoodN64)</description>
+		<rom name="SM64 Scrooge 64 (GoodN64).z64" size="67108864" crc="420d4a80"/>
+	</game>
+	<game name="SM64 Shindou Improvement v1.0">
+		<description>SM64 Shindou Improvement v1.0</description>
+		<rom name="SM64 Shindou Improvement v1.0.z64" size="8388608" crc="3587c3ec"/>
+	</game>
+	<game name="SM64 Shotgun Mario 64">
+		<description>SM64 Shotgun Mario 64</description>
+		<rom name="SM64 Shotgun Mario 64.z64" size="7241744" crc="403a3a2a"/>
+	</game>
+	<game name="SM64 sm64.z64">
+		<description>SM64 sm64.z64</description>
+		<rom name="SM64 sm64.z64.z64" size="9813904" crc="af1e8aa2"/>
+	</game>
+	<game name="SM64 Sonic Edition Plus v2.2.2">
+		<description>SM64 Sonic Edition Plus v2.2.2</description>
+		<rom name="SM64 Sonic Edition Plus v2.2.2.z64" size="38805536" crc="d4b04ec0"/>
+	</game>
+	<game name="SM64 Sonic Edition v4.1">
+		<description>SM64 Sonic Edition v4.1</description>
+		<rom name="SM64 Sonic Edition v4.1.z64" size="8388608" crc="15ee9cb4"/>
+	</game>
+	<game name="SM64 Sonic Edition v4.2">
+		<description>SM64 Sonic Edition v4.2</description>
+		<rom name="SM64 Sonic Edition v4.2.z64" size="8388608" crc="30d20107"/>
+	</game>
+	<game name="SM64 Star Road Deluxe Final">
+		<description>SM64 Star Road Deluxe Final (GoodN64)</description>
+		<rom name="SM64 Star Road Deluxe Final (GoodN64).z64" size="50331648" crc="2bd94dd7"/>
+	</game>
+	<game name="SM64 Star Road EverDrive Edition v1.0">
+		<description>SM64 Star Road EverDrive Edition v1.0</description>
+		<rom name="SM64 Star Road EverDrive Edition v1.0.z64" size="47185920" crc="6b76abe3"/>
+	</game>
+	<game name="SM64 Star Road Final">
+		<description>SM64 Star Road Final</description>
+		<rom name="SM64 Star Road Final.z64" size="47185920" crc="69a50b1a"/>
+	</game>
+	<game name="SM64 Super Luigi 64 Final">
+		<description>SM64 Super Luigi 64 Final</description>
+		<rom name="SM64 Super Luigi 64 Final.z64" size="8388608" crc="c209c9ae"/>
+	</game>
+	<game name="SM64 Super Mario Bros. 64">
+		<description>SM64 Super Mario Bros. 64</description>
+		<rom name="SM64 Super Mario Bros. 64.z64" size="25165824" crc="c41178af"/>
+	</game>
+	<game name="SM64 Super Mario Maker v1.3">
+		<description>SM64 Super Mario Maker v1.3</description>
+		<rom name="SM64 Super Mario Maker v1.3.z64" size="67108864" crc="bd94e403"/>
+	</game>
+	<game name="SM64 Super Portal 64">
+		<description>SM64 Super Portal 64</description>
+		<rom name="SM64 Super Portal 64.z64" size="8388608" crc="94e3e52a"/>
+	</game>
+	<game name="SM64 T-Spa Dub v3.2">
+		<description>SM64 T-Spa Dub v3.2</description>
+		<rom name="SM64 T-Spa Dub v3.2.z64" size="8388608" crc="151db40a"/>
+	</game>
+	<game name="SM64 T-Spa Dub v3.2 yumi">
+		<description>SM64 T-Spa Dub v3.2 yumi</description>
+		<rom name="SM64 T-Spa Dub v3.2 yumi.z64" size="8388608" crc="95191c6a"/>
+	</game>
+	<game name="SM64 The Green Stars Console v1.0">
+		<description>SM64 The Green Stars Console v1.0</description>
+		<rom name="SM64 The Green Stars Console v1.0.z64" size="42991616" crc="3d83cc4b"/>
+	</game>
+	<game name="SM64 The Green Stars v2.1">
+		<description>SM64 The Green Stars v2.1 (GoodN64)</description>
+		<rom name="SM64 The Green Stars v2.1 (GoodN64).z64" size="50332008" crc="9cda4e4f"/>
+	</game>
+	<game name="SM64 The Missing Stars Console v2.0">
+		<description>SM64 The Missing Stars Console v2.0</description>
+		<rom name="SM64 The Missing Stars Console v2.0.z64" size="25165824" crc="4cb464ac"/>
+	</game>
+	<game name="SM64 The Preservation Project 2nd">
+		<description>SM64 The Preservation Project 2nd</description>
+		<rom name="SM64 The Preservation Project 2nd.z64" size="7928720" crc="ff844f9b"/>
+	</game>
+	<game name="SM64 Through the Ages v1.1">
+		<description>SM64 Through the Ages v1.1</description>
+		<rom name="SM64 Through the Ages v1.1.z64" size="53046608" crc="babe6f0b"/>
+	</game>
+	<game name="SM64 Totsugeki 64">
+		<description>SM64 Totsugeki 64</description>
+		<rom name="SM64 Totsugeki 64.z64" size="7021936" crc="7c66664e"/>
+	</game>
+	<game name="SM64 Waluigi's Taco Stand">
+		<description>SM64 Waluigi's Taco Stand</description>
+		<rom name="SM64 Waluigi's Taco Stand.z64" size="20971520" crc="72e6d2c3"/>
+	</game>
+	<game name="Star Wars Episode I T-Spa">
+		<description>Star Wars Episode I T-Spa (GoodN64)</description>
+		<rom name="Star Wars Episode I T-Spa (GoodN64).z64" size="33554432" crc="44abfa6b"/>
+	</game>
+	<game name="Super Smash Bros. Remix v1.2.2">
+		<description>Super Smash Bros. Remix v1.2.2</description>
+		<rom name="Super Smash Bros. Remix v1.2.2.z64" size="50331648" crc="f81f467b"/>
+	</game>
+	<game name="Super Smash Bros. Remix v1.3.1">
+		<description>Super Smash Bros. Remix v1.3.1</description>
+		<rom name="Super Smash Bros. Remix v1.3.1.z64" size="50331648" crc="95d3c899"/>
+	</game>
+	<game name="Super Smash Bros. Remix v1.4.0">
+		<description>Super Smash Bros. Remix v1.4.0</description>
+		<rom name="Super Smash Bros. Remix v1.4.0.z64" size="65536000" crc="147d616f"/>
+	</game>
+	<game name="Super Smash Bros. Remix v1.4.1">
+		<description>Super Smash Bros. Remix v1.4.1</description>
+		<rom name="Super Smash Bros. Remix v1.4.1.z64" size="65536000" crc="2b0946bf"/>
+	</game>
+	<game name="Tsumi to Batsu T-Eng unknown version">
+		<description>Tsumi to Batsu T-Eng unknown version</description>
+		<rom name="Tsumi to Batsu T-Eng unknown version.z64" size="33554432" crc="5a6b6713"/>
+	</game>
+	<game name="Tsumi to Batsu T-Eng v1.0">
+		<description>Tsumi to Batsu T-Eng v1.0 (GoodN64)</description>
+		<rom name="Tsumi to Batsu T-Eng v1.0 (GoodN64).z64" size="33554432" crc="6a19ae94"/>
+	</game>
+	<game name="Tsumi to Batsu T-Spa Dub v1.0b">
+		<description>Tsumi to Batsu T-Spa Dub v1.0b</description>
+		<rom name="Tsumi to Batsu T-Spa Dub v1.0b.z64" size="33554432" crc="bb5a768b"/>
+	</game>
+	<game name="Viewpoint 2064 T-Eng v1.1">
+		<description>Viewpoint 2064 T-Eng v1.1</description>
+		<rom name="Viewpoint 2064 T-Eng v1.1.z64" size="12926976" crc="30f7096d"/>
+	</game>
+	<game name="Virtual Pro Wrestling 2 FE v20230730">
+		<description>Virtual Pro Wrestling 2 FE v20230730</description>
+		<rom name="Virtual Pro Wrestling 2 FE v20230730.z64" size="33554432" crc="bcd281b9"/>
+	</game>
+	<game name="Virtual Pro Wrestling 2 T-Eng">
+		<description>Virtual Pro Wrestling 2 T-Eng (GoodN64)</description>
+		<rom name="Virtual Pro Wrestling 2 T-Eng (GoodN64).z64" size="33554432" crc="71f98a9b"/>
+	</game>
+	<game name="Wave Race 64 Shindou T-Eng v1.1">
+		<description>Wave Race 64 Shindou T-Eng v1.1</description>
+		<rom name="Wave Race 64 Shindou T-Eng v1.1.z64" size="8202240" crc="fbd32fb6"/>
+	</game>
+	<game name="Wonder Project J2 T-Eng v1.0">
+		<description>Wonder Project J2 T-Eng v1.0 (GoodN64)</description>
+		<rom name="Wonder Project J2 T-Eng v1.0 (GoodN64).z64" size="8912896" crc="e1094e29"/>
+	</game>
+</datafile>
+
+
